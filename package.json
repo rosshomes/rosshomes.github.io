@@ -1,0 +1,28 @@
+{
+  "name": "ross-homes",
+  "version": "1.0.0",
+  "description": "Agency Jekyll theme ====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loql/ross-homes.git"
+  },
+  "author": "Ben Gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loql/ross-homes/issues"
+  },
+  "homepage": "https://github.com/loql/ross-homes#readme",
+  "devDependencies": {
+    "bower": "^1.7.1",
+    "browser-sync": "^2.10.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.1",
+    "path": "^0.12.7",
+    "rimraf": "^2.4.4"
+  }
+}

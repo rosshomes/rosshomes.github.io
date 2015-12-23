@@ -1,0 +1,24 @@
+{
+  "name": "ross-homes",
+  "description": "Agency Jekyll theme ====================",
+  "main": "index.js",
+  "authors": [
+    "Ben Gao"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/loql/ross-homes",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "jquery-easing-original": "~1.3.2"
+  }
+}
