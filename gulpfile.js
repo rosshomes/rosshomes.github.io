@@ -73,6 +73,11 @@ gulp.task('copy-libs', function() {
             ])
             .pipe(gulp.dest('assets/libs/'));
 
+        gulp.src([
+                'bower_components/cbp-animated-header-fork/js/**/*',
+            ])
+            .pipe(gulp.dest('assets/libs/cbp-animated-header'));
+
         return gulp.src([
                 'bower_components/font-awesome/**/*'
             ])
