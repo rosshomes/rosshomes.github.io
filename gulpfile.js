@@ -1,4 +1,4 @@
-var browserSync = require('browser-sync');
+var browserSync = require('browser-sync').create();
 var gulp = require('gulp');
 var sass = require('gulp-sass');
 var prefix = require('gulp-autoprefixer');
@@ -25,20 +25,7 @@ gulp.task('jekyll-build', function(done) {
 /**
  * Rebuild Jekyll & do page reload
  */
-gulp.task('jekyll-rebuild', ['jekyll-build'], function() {
-    browserSync.reload();
-});
-
-/**
- * Wait for jekyll-build, then launch the Server
- */
-gulp.task('browser-sync', ['jekyll-build'], function() {
-    browserSync({
-        server: {
-            baseDir: '_site'
-        }
-    });
-});
+gulp.task('jekyll-rebuild', ['jekyll-build'], browserSync.reload);
 
 /**
  * Compile files from _scss into both _site/css (for live injecting) and site (for future jekyll builds)
@@ -92,6 +79,12 @@ gulp.task('copy-libs', function() {
 });
 
 gulp.task('watch', ['copy-libs'], function() {
+    browserSync.init({
+        server: {
+            baseDir: '_site'
+        }
+    });
+    
     // gulp.watch('_scss/*.scss', ['sass']);
     gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
@@ -100,4 +93,4 @@ gulp.task('watch', ['copy-libs'], function() {
  * Default task, running just `gulp` will compile the sass,
  * compile the jekyll site, launch BrowserSync & watch files.
  */
-gulp.task('default', ['browser-sync', 'watch']);
+gulp.task('default', ['watch']);
