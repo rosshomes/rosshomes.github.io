@@ -78,6 +78,11 @@ gulp.task('copy-libs', function() {
             ])
             .pipe(gulp.dest('assets/libs/cbp-animated-header'));
 
+        gulp.src([
+                'bower_components/jqBootstrapValidation/dist/jqBootstrapValidation-1.3.7.min.js',
+            ])
+            .pipe(gulp.dest('assets/libs/'));
+
         return gulp.src([
                 'bower_components/font-awesome/**/*'
             ])
