@@ -6,7 +6,6 @@ var cp = require('child_process');
 var path = require('path');
 var rimraf = require('rimraf');
 
-
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
@@ -16,6 +15,7 @@ var messages = {
  */
 gulp.task('jekyll-build', function(done) {
     browserSync.notify(messages.jekyllBuild);
+
     return cp.spawn('jekyll', ['build'], {
             stdio: 'inherit'
         })
@@ -84,7 +84,7 @@ gulp.task('watch', ['copy-libs'], function() {
             baseDir: '_site'
         }
     });
-    
+
     // gulp.watch('_scss/*.scss', ['sass']);
     gulp.watch(['*.html', '_includes/*.html', '_layouts/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
