@@ -26,6 +26,7 @@
     "gulp-sourcemaps": "^1.6.0",
     "gulp-uglify": "^1.5.1",
     "path": "^0.12.7",
-    "rimraf": "^2.4.4"
+    "rimraf": "^2.4.4",
+    "run-sequence": "^1.1.5"
   }
 }

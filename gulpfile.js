@@ -5,6 +5,7 @@ var gulp = require('gulp');
 var prefix = require('gulp-autoprefixer');
 var path = require('path');
 var rimraf = require('rimraf');
+var sequence = require('run-sequence');
 var sass = require('gulp-sass');
 var sourcemaps = require('gulp-sourcemaps');
 var uglify = require('gulp-uglify');
@@ -49,12 +50,22 @@ gulp.task('jekyll-build', function(done) {
 
 gulp.task('jekyll-rebuild', ['jekyll-build'], browserSync.reload);
 
+gulp.task('dev-scripts', function() {
+    sequence(
+        'scripts-build', 'jekyll-rebuild');
+});
+
 gulp.task('watch', ['scripts-build'], function() {
     browserSync.init({
         server: {
             baseDir: '_site'
         }
     });
+
+    gulp.watch([
+        'assets/js/*.js',
+        '!assets/js/bundle*.js'
+    ], ['dev-scripts']);
 
     gulp.watch([
         '*.html',
