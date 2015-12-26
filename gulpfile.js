@@ -55,7 +55,17 @@ gulp.task('dev-scripts', function() {
         'scripts-build', 'jekyll-rebuild');
 });
 
-gulp.task('watch', ['scripts-build'], function() {
+gulp.task('copy-libs', function() {
+    rimraf('assets/libs', function() {
+        return gulp.src([
+                'bower_components/font-awesome/**/*'
+            ])
+            .pipe(gulp.dest('assets/libs/font-awesome'));
+    });
+
+});
+
+gulp.task('watch', ['copy-libs', 'scripts-build'], function() {
     browserSync.init({
         server: {
             baseDir: '_site'
