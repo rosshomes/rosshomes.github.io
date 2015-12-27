@@ -2,6 +2,8 @@ var browserSync = require('browser-sync').create();
 var concat = require('gulp-concat');
 var cp = require('child_process');
 var gulp = require('gulp');
+var imagemin = require('gulp-imagemin');
+var pngquant = require('imagemin-pngquant');
 var prefix = require('gulp-autoprefixer');
 var path = require('path');
 var rimraf = require('rimraf');
@@ -27,6 +29,18 @@ var orderedScriptSrc = [
 var messages = {
     jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
 };
+
+gulp.task('imagemin', function() {
+    return gulp.src('img/**/*')
+        .pipe(imagemin({
+            progressive: true,
+            svgoPlugins: [{
+                removeViewBox: false
+            }],
+            use: [pngquant()]
+        }))
+        .pipe(gulp.dest('img'));
+});
 
 gulp.task('scripts-build', function() {
     return gulp.src(orderedScriptSrc)
