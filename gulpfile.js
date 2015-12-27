@@ -65,7 +65,7 @@ gulp.task('copy-libs', function() {
 
 });
 
-gulp.task('watch', ['copy-libs', 'scripts-build'], function() {
+gulp.task('watch', ['copy-libs', 'scripts-build', 'jekyll-build'], function() {
     browserSync.init({
         server: {
             baseDir: '_site'
