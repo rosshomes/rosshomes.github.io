@@ -864,3 +864,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+
+.galleria {
+    width: 100%;
+    height: 600px;
+    background: #000
+}

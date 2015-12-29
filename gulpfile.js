@@ -18,6 +18,7 @@ var JS_PATH = 'assets/js';
 var orderedScriptSrc = [
     path.join(BOWER_PATH, 'jquery/dist/jquery.min.js'),
     path.join(BOWER_PATH, 'bootstrap/dist/js/bootstrap.min.js'),
+    path.join(BOWER_PATH, 'galleria/src/galleria.js'),
     path.join(BOWER_PATH, 'jquery-easing-original/jquery.easing.js'),
     path.join(BOWER_PATH, 'cbp-animated-header-fork/js/classie.js'),
     path.join(BOWER_PATH, 'cbp-animated-header-fork/js/cbpAnimatedHeader.js'),
@@ -71,6 +72,11 @@ gulp.task('dev-scripts', function() {
 
 gulp.task('copy-libs', function() {
     rimraf('assets/libs', function() {
+        gulp.src([
+                'bower_components/galleria/src/themes/classic/*'
+            ])
+            .pipe(gulp.dest('assets/libs/galleria/themes/classic/'));
+
         return gulp.src([
                 'bower_components/font-awesome/**/*'
             ])

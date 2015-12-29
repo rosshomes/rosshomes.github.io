@@ -13,6 +13,11 @@ $(function() {
         }, 1500, 'easeInOutExpo');
         event.preventDefault();
     });
+
+    Galleria.loadTheme('assets/libs/galleria/themes/classic/galleria.classic.js');
+    Galleria.run('.galleria', {
+        wait: true
+    });
 });
 
 // Highlight the top nav as scrolling occurs
@@ -26,12 +31,12 @@ $('.navbar-collapse ul li a').click(function() {
 });
 
 $('div.modal').on('show.bs.modal', function() {
-	var modal = this;
-	var hash = modal.id;
-	window.location.hash = hash;
-	window.onhashchange = function() {
-		if (!location.hash){
-			$(modal).modal('hide');
-		}
-	}
+    var modal = this;
+    var hash = modal.id;
+    window.location.hash = hash;
+    window.onhashchange = function() {
+        if (!location.hash) {
+            $(modal).modal('hide');
+        }
+    }
 });
