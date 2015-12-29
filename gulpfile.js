@@ -31,7 +31,7 @@ var messages = {
 };
 
 gulp.task('imagemin', function() {
-    return gulp.src('img/**/*')
+    return gulp.src('assets/img/**/*')
         .pipe(imagemin({
             progressive: true,
             svgoPlugins: [{
@@ -39,7 +39,7 @@ gulp.task('imagemin', function() {
             }],
             use: [pngquant()]
         }))
-        .pipe(gulp.dest('img'));
+        .pipe(gulp.dest('assets/img'));
 });
 
 gulp.task('scripts-build', function() {
