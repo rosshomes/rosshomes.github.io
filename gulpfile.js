@@ -99,7 +99,7 @@ gulp.task('watch', [], function() {
 
     gulp.watch([
         '*.html',
-        '_includes/*.html',
+        '_includes/**/*',
         '_layouts/*.html',
         '_posts/*'
     ], ['jekyll-rebuild']);
