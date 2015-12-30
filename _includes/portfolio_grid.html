@@ -16,7 +16,11 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="assets/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        {% if !post.images %}
+                            <img src="{{ post.images[0].url }}" class="portfolio-cover img-responsive img-centered" alt="">
+                        {% else %}
+                            <img src="assets/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        {% endif %}
                     </a>
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
