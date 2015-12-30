@@ -15,14 +15,21 @@
                         <h2>{{ post.title }}</h2>
                         <hr class="star-primary">
 
-                        {% if post.images %}
-                        <div class="galleria">
-                            {% for image in post.images %}
-                                <img src="{{image.url}}">
-                            {% endfor %}
+                        <div class="row">
+                            {% if post.images %}
+                            <div class="galleria col-md-8">
+                                {% for image in post.images %}
+                                    <img src="{{image.url}}">
+                                {% endfor %}
+                            </div>
+                            {% endif %}
+                            <div class="col-md-4">sssssssssssssssssssssssssss</div>
                         </div>
-                        {% endif %}
                         
+                        <div class="row">
+                            {{post.description}}
+                        </div>
+
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
