@@ -9,39 +9,41 @@
             </div>
         </div>
         <div class="container">
-            <div class="row">
-                <div class="modal-body">
-                    <h2>{{ post.title }}</h2>
-                    <hr class="star-primary">
-                    <div class="row">
-                        {% if post.images %}
-                        <div class="galleria col-md-8">
-                            {% for image in post.images %}
-                            <img src="{{image.url}}"> {% endfor %}
-                        </div>
-                        {% endif %}
-                        <div class="col-md-4">
-                            <span class="home-property col-md-12 pull-left">
-                                <i class="flaticon-sleeping"></i> 2
-                            </span>
-                            <span class="home-property col-md-12 pull-left">
-                                <i class="flaticon-furniture41"></i> 2
-                            </span>
-                            <span class="home-property col-md-12 pull-left">
-                                <i class="flaticon-bath2"></i> 2
-                            </span>
-                            <span class="home-property col-md-12 pull-left">
-                                <i class="flaticon-automobile1"></i> 2
-                            </span>
-
-                            <hr class="star-primary">
-
-                            <span>Floor Area: 500m²</span>
-                        </div>
+            <div class="row modal-body">
+                <h2>{{ post.title }}</h2>
+                <hr class="star-primary">
+                <div class="row">
+                    {% if post.images %}
+                    <div class="galleria col-md-8">
+                        {% for image in post.images %}
+                        <img src="{{image.url}}"> 
+                        {% endfor %}
                     </div>
-                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    {% endif %}
+                    <div class="col-md-3">
+                        <span class="home-property col-md-12">
+                                <i class="flaticon-sleeping"></i> {{post.bedroom}}
+                            </span>
+                        <span class="home-property col-md-12">
+                                <i class="flaticon-furniture41"></i> {{post.bathroom}}
+                            </span>
+                        <span class="home-property col-md-12">
+                                <i class="flaticon-bath2"></i> {{post.livingroom}}
+                            </span>
+                        <span class="home-property col-md-12">
+                                <i class="flaticon-automobile1"></i> {{post.parking}}
+                            </span>
+                        <hr class="star-primary">
+                        <span>Floor Area: {{post.floorarea}}m²</span>
+                    </div>
+                </div>
+                <div class="row">
+                    {% for paragraph in post.description %}
+                        <p>{{paragraph | markdownify}}</p>
+                    {% endfor %}
                 </div>
             </div>
+            <button type="button" class="btn btn-default col-md-2 col-md-offset-5" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
         </div>
     </div>
 </div>
