@@ -10,28 +10,36 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>{{ post.title }}</h2>
-                        <hr class="star-primary">
-
-                        <div class="row">
-                            {% if post.images %}
-                            <div class="galleria col-md-8">
-                                {% for image in post.images %}
-                                    <img src="{{image.url}}">
-                                {% endfor %}
-                            </div>
-                            {% endif %}
-                            <div class="col-md-4">sssssssssssssssssssssssssss</div>
+                <div class="modal-body">
+                    <h2>{{ post.title }}</h2>
+                    <hr class="star-primary">
+                    <div class="row">
+                        {% if post.images %}
+                        <div class="galleria col-md-8">
+                            {% for image in post.images %}
+                            <img src="{{image.url}}"> {% endfor %}
                         </div>
-                        
-                        <div class="row">
-                            {{post.description}}
-                        </div>
+                        {% endif %}
+                        <div class="col-md-4">
+                            <span class="home-property col-md-12 pull-left">
+                                <i class="flaticon-sleeping"></i> 2
+                            </span>
+                            <span class="home-property col-md-12 pull-left">
+                                <i class="flaticon-furniture41"></i> 2
+                            </span>
+                            <span class="home-property col-md-12 pull-left">
+                                <i class="flaticon-bath2"></i> 2
+                            </span>
+                            <span class="home-property col-md-12 pull-left">
+                                <i class="flaticon-automobile1"></i> 2
+                            </span>
 
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                            <hr class="star-primary">
+
+                            <span>Floor Area: 500m²</span>
+                        </div>
                     </div>
+                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                 </div>
             </div>
         </div>
