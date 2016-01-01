@@ -9,7 +9,7 @@
             </div>
         </div>
         <div class="container">
-            <div class="row modal-body">
+            <div class="modal-body">
                 <h2>{{ post.title }}</h2>
                 <hr class="star-primary">
                 <div class="row">
@@ -39,7 +39,7 @@
                 </div>
                 <div class="row">
                     {% for paragraph in post.description %}
-                        <p>{{paragraph | markdownify}}</p>
+                        {{paragraph | markdownify}}
                     {% endfor %}
                 </div>
             </div>
