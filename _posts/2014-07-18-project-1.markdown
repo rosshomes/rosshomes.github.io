@@ -27,11 +27,11 @@ landarea: 500
 floorarea: 200
 
 images:
-  - url: /assets/img/portfolio/dreams.png
+  - url: assets/img/portfolio/dreams.png
     alt: Cypripedium Calceolum
     title: Cypripedium Calceolum
 
-  - url: /assets/img/portfolio/dreams.png
+  - url: assets/img/portfolio/dreams.png
     alt: Hello bumblebee !
     title: Hello bumblebee !
 ---
