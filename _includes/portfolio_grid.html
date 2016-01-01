@@ -17,7 +17,7 @@
                             </div>
                         </div>
                         {% if !post.images %}
-                            <img src="{{ post.images[0].url }}" class="portfolio-cover img-responsive img-centered" alt="">
+                            <img src="{{ post.images[0].url  | prepend: site.baseurl}}" class="portfolio-cover img-responsive img-centered" alt="">
                         {% else %}
                             <img src="assets/img/portfolio/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                         {% endif %}
