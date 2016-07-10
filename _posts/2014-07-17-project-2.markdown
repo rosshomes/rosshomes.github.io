@@ -1,15 +1,45 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 202 Wainui Rd
+subtitle: 202 Wainui Road, Silverdale
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2014-07-18
+thumbnail: dreams-thumbnail.png
+description:
+  - Private Sale.
+  - Looking for a great location? Flat section? An investment property? Then this is the house for you.
+  - An older style house situated close to the beach. There is a heat pump and fire, 3 generous size bedrooms, a lounge and dining room, separate laundry and a small conservatory area that leads out to a sunny decked area.
 
+  - The section is flat and fully closed in, with a new fence on one boundary. A single garage and tar sealed area at the front of the section provides generous off street parking.
+
+  - The property has had a partial re-roof, some maintenance done on the storm water drainage, and the water main replaced to the street. A total electrical re-wire was completed in 2011. The exterior and interior have both been painted within the past 2 years.
+
+  - This house has been used as a rental, so a good investment opportunity. Alternatively suitable for a young couple starting out who are ready to add their own personal touches.
+
+  - Looking for offers
+
+
+bedroom: 4
+bathroom: 3
+livingroom: 2
+parking: 2
+landarea: 500
+floorarea: 200
+
+images:
+  - url: assets/img/portfolio/202ns.jpg
+    alt: 202 Wainui Road, Silverdale North-South
+    title: 202 Wainui Road, Silverdale North-South
+
+  - url: assets/img/portfolio/202ew.jpg
+    alt: 202 Wainui Road, Silverdale East-West
+    title: 202 Wainui Road, Silverdale East-West
+
+  - url: assets/img/portfolio/202fg.jpg
+    alt: 202 Wainui Road, Silverdale Ground Floor
+    title: 202 Wainui Road, Silverdale Ground Floor
+
+  - url: assets/img/portfolio/202f1.jpg
+    alt: 202 Wainui Road, Silverdale First Floor
+    title: 202 Wainui Road, Silverdale First Floor   
 ---
