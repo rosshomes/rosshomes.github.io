@@ -75,7 +75,7 @@ h6 {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
 }
 
 .btn-primary:hover,
@@ -127,7 +127,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: rgba(192, 159, 128,0.95);
 }
 
 .btn-xl:hover,
@@ -137,7 +137,7 @@ fieldset[disabled] .btn-primary.active {
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.color.primary }};
     color: #fff;
-    background-color: #{{ site.color.secondary }};
+    background-color: rgba(118, 50, 63, 0.95);
 }
 
 .btn-xl:active,
@@ -176,15 +176,15 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.color.primary }};
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: rgb(255, 255, 255);
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
 }
 
 .navbar-default .navbar-collapse {
@@ -268,7 +268,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(assets/img/header-bg.png);
+    background-image: url(assets/img/bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -297,6 +297,7 @@ header .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    background: rgba(255, 0, 0, 0.5);
 }
 
 @media(min-width:768px) {
