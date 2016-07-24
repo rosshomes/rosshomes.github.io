@@ -1,15 +1,68 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Harris Drive
+subtitle: Harris Drive, Silverdale
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2015-11-1
+thumbnail: dreams-thumbnail.png
 
+bedroom: 4
+bathroom: 2
+livingroom: 2
+parking: 2
+landarea: 559
+floorarea: 197
+
+images:
+  - url: assets/img/portfolio/32hdo1.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdo2.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdo3.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdo4.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdl1.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdl2.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale     
+
+  - url: assets/img/portfolio/32hdl3.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdk1.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdk2.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdbd1.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdbd2.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdb1.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
+
+  - url: assets/img/portfolio/32hdb2.jpg
+    alt: Harris Drive, Silverdale
+    title: Harris Drive, Silverdale
 ---

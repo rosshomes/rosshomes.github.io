@@ -1,45 +1,92 @@
 ---
-title: 202 Wainui Rd
-subtitle: 202 Wainui Road, Silverdale
+title: Schnapper Rock A
+subtitle: Schnapper Rock Rd, Albany
 layout: default
 modal-id: 2
-date: 2014-07-18
+date: 2015-7-1
 thumbnail: dreams-thumbnail.png
-description:
-  - Private Sale.
-  - Looking for a great location? Flat section? An investment property? Then this is the house for you.
-  - An older style house situated close to the beach. There is a heat pump and fire, 3 generous size bedrooms, a lounge and dining room, separate laundry and a small conservatory area that leads out to a sunny decked area.
 
-  - The section is flat and fully closed in, with a new fence on one boundary. A single garage and tar sealed area at the front of the section provides generous off street parking.
-
-  - The property has had a partial re-roof, some maintenance done on the storm water drainage, and the water main replaced to the street. A total electrical re-wire was completed in 2011. The exterior and interior have both been painted within the past 2 years.
-
-  - This house has been used as a rental, so a good investment opportunity. Alternatively suitable for a young couple starting out who are ready to add their own personal touches.
-
-  - Looking for offers
-
-
-bedroom: 4
+bedroom: 5
 bathroom: 3
-livingroom: 2
+livingroom: 3
 parking: 2
 landarea: 500
-floorarea: 200
+floorarea: 295
 
 images:
-  - url: assets/img/portfolio/202ns.jpg
-    alt: 202 Wainui Road, Silverdale North-South
-    title: 202 Wainui Road, Silverdale North-South
+  - url: assets/img/portfolio/s284sro2.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
 
-  - url: assets/img/portfolio/202ew.jpg
-    alt: 202 Wainui Road, Silverdale East-West
-    title: 202 Wainui Road, Silverdale East-West
+  - url: assets/img/portfolio/s284sro1.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
 
-  - url: assets/img/portfolio/202fg.jpg
-    alt: 202 Wainui Road, Silverdale Ground Floor
-    title: 202 Wainui Road, Silverdale Ground Floor
+  - url: assets/img/portfolio/s284sro3.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
 
-  - url: assets/img/portfolio/202f1.jpg
-    alt: 202 Wainui Road, Silverdale First Floor
-    title: 202 Wainui Road, Silverdale First Floor   
+  - url: assets/img/portfolio/s284sro4.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284sro5.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srl1.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srl2.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srl3.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srl4.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srl5.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srl6.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srk1.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srk2.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srbd1.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srbd2.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srbd3.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srbd4.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srb1.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany
+
+  - url: assets/img/portfolio/s284srb2.jpg
+    alt: Schnapper Rock
+    title: Schnapper Rock Rd, Albany   
 ---

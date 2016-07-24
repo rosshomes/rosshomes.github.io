@@ -1,45 +1,104 @@
 ---
-title: Lot - 416
-subtitle: 158 Wainui Road, Silverdale
+title: Medallion Drive
+subtitle: Medallion Drive, Albany
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2015-7-1
 thumbnail: dreams-thumbnail.png
-description:
-  - Private Sale.
-  - Looking for a great location? Flat section? An investment property? Then this is the house for you.
-  - An older style house situated close to the beach. There is a heat pump and fire, 3 generous size bedrooms, a lounge and dining room, separate laundry and a small conservatory area that leads out to a sunny decked area.
 
-  - The section is flat and fully closed in, with a new fence on one boundary. A single garage and tar sealed area at the front of the section provides generous off street parking.
-
-  - The property has had a partial re-roof, some maintenance done on the storm water drainage, and the water main replaced to the street. A total electrical re-wire was completed in 2011. The exterior and interior have both been painted within the past 2 years.
-
-  - This house has been used as a rental, so a good investment opportunity. Alternatively suitable for a young couple starting out who are ready to add their own personal touches.
-
-  - Looking for offers
-
-
-bedroom: 4
-bathroom: 3
-livingroom: 2
+bedroom: 6
+bathroom: 4
+livingroom: 3
 parking: 2
-landarea: 500
-floorarea: 200
+landarea: 501
+floorarea: 331
 
 images:
-  - url: assets/img/portfolio/l416ns.jpg
-    alt: lot416 - 158 Wainui Road, Silverdale North-South
-    title: lot416 - 158 Wainui Road, Silverdale North-South
+  - url: assets/img/portfolio/99mdo1.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
 
-  - url: assets/img/portfolio/l416ew.jpg
-    alt: lot416 - 158 Wainui Road, Silverdale East-West
-    title: lot416 - 158 Wainui Road, Silverdale East-West
+  - url: assets/img/portfolio/99mdo2.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
 
-  - url: assets/img/portfolio/l416fg.jpg
-    alt: lot416 - 158 Wainui Road, Silverdale Ground Floor
-    title: lot416 - 158 Wainui Road, Silverdale Ground Floor
+  - url: assets/img/portfolio/99mdo3.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
 
-  - url: assets/img/portfolio/l416f1.jpg
-    alt: lot416 - 158 Wainui Road, Silverdale First Floor
-    title: lot416 - 158 Wainui Road, Silverdale First Floor   
+  - url: assets/img/portfolio/99mdo4.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl1.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl2.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl3.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl4.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl5.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl6.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl7.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl8.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdl9.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdk1.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdbd1.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdbd2.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdbd3.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdbd4.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdbd5.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdbd6.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdb1.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
+
+  - url: assets/img/portfolio/99mdb2.jpg
+    alt: Medallion Drive, Albany
+    title: Medallion Drive, Albany
 ---
