@@ -1,0 +1,36 @@
+---
+title: 202 Wainui Rd
+subtitle: 202 Wainui Road, Silverdale
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Currently under construction.
+- Contact us for more details about this home package.
+bedroom: 5
+bathroom: 3
+livingroom: 3
+parking: 2
+landarea: 507
+floorarea: 284
+images:
+ - url: assets/img/portfolio/202ns.jpg
+   alt: 202 Wainui Road, Silverdale North-South
+   title: 202 Wainui Road, Silverdale North-South
+
+ - url: assets/img/portfolio/202fg.jpg
+   alt: 202 Wainui Road, Silverdale Ground Floor
+   title: 202 Wainui Road, Silverdale Ground Floor
+
+ - url: assets/img/portfolio/202f1.jpg
+   alt: 202 Wainui Road, Silverdale First Floor
+   title: 202 Wainui Road, Silverdale First Floor
+
+ - url: assets/img/portfolio/202ew.jpg
+   alt: 202 Wainui Road, Silverdale East West
+   title: 202 Wainui Road, Silverdale East West  
+---

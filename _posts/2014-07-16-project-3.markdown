@@ -2,7 +2,7 @@
 title: Schnapper Rock B
 subtitle: Schnapper Rock Rd, Albany
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2015-7-1
 thumbnail: dreams-thumbnail.png
 
@@ -10,9 +10,9 @@ bedroom: 5
 bathroom: 3
 livingroom: 3
 parking: 2
-landarea: 500
-floorarea: 295
-
+landarea: 786
+floorarea: 370
+description: Sold.
 images:
   - url: assets/img/portfolio/238csrlo1.jpg
     alt: Schnapper Rock
@@ -22,31 +22,7 @@ images:
     alt: Schnapper Rock
     title: Schnapper Rock Rd, Albany
 
-  - url: assets/img/portfolio/238csro3.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csro4.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrl1.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrl2.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
   - url: assets/img/portfolio/238csrl3.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrl4.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrl5.jpg
     alt: Schnapper Rock
     title: Schnapper Rock Rd, Albany
 
@@ -54,35 +30,7 @@ images:
     alt: Schnapper Rock
     title: Schnapper Rock Rd, Albany
 
-  - url: assets/img/portfolio/238csrl7.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrl8.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrk1.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrk2.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrbd1.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
   - url: assets/img/portfolio/238csrbd2.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrbd3.jpg
-    alt: Schnapper Rock
-    title: Schnapper Rock Rd, Albany
-
-  - url: assets/img/portfolio/238csrb1.jpg
     alt: Schnapper Rock
     title: Schnapper Rock Rd, Albany
 

@@ -12,17 +12,9 @@ livingroom: 3
 parking: 2
 landarea: 501
 floorarea: 331
-
+description: Sold.
 images:
   - url: assets/img/portfolio/99mdo1.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdo2.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdo3.jpg
     alt: Medallion Drive, Albany
     title: Medallion Drive, Albany
 
@@ -30,23 +22,7 @@ images:
     alt: Medallion Drive, Albany
     title: Medallion Drive, Albany
 
-  - url: assets/img/portfolio/99mdl1.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdl2.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
   - url: assets/img/portfolio/99mdl3.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdl4.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdl5.jpg
     alt: Medallion Drive, Albany
     title: Medallion Drive, Albany
 
@@ -54,43 +30,7 @@ images:
     alt: Medallion Drive, Albany
     title: Medallion Drive, Albany
 
-  - url: assets/img/portfolio/99mdl7.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdl8.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdl9.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdk1.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdbd1.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
   - url: assets/img/portfolio/99mdbd2.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdbd3.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdbd4.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdbd5.jpg
-    alt: Medallion Drive, Albany
-    title: Medallion Drive, Albany
-
-  - url: assets/img/portfolio/99mdbd6.jpg
     alt: Medallion Drive, Albany
     title: Medallion Drive, Albany
 
