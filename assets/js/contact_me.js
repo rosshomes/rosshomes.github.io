@@ -24,8 +24,7 @@ $(function() {
                 data: {
                     name: name,
                     _replyto: email,
-                    message: 'Phone: ' + phone + '\n' + message,
-                    _gotcha: gotcha
+                    message: 'Phone: ' + phone + '\n' + message
                 },
                 cache: false,
                 success: function() {
