@@ -24,11 +24,17 @@ $(function() {
         var $galleria = $('#portfolioModal' + id).find('.galleria').data('galleria');
 
         $('#portfolioModal' + id).find('.image-url').map(function(i, imageurl) {
+            $galleria.push({ image: $(imageurl).data('imageurl') });
             $galleria.load({
                 thumb: $(imageurl).data('imageurl'),
                 image: $(imageurl).data('imageurl'),
                 big: $(imageurl).data('imageurl')
             });
+        });
+        $galleria.refreshImage();
+
+        $('.galleria-image').on('click', function() {
+            $galleria.toggleFullscreen();
         });
     });
 });

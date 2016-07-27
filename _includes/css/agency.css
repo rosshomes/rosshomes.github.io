@@ -870,3 +870,7 @@ body {
     height: 480px;
     background: #000
 }
+
+.galleria-image {
+    cursor: pointer;
+}
