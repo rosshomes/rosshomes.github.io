@@ -18,6 +18,19 @@ $(function() {
     Galleria.run('.galleria', {
         wait: true
     });
+
+    $('.portfolio-link').click(function() {
+        var id = $(this).data('id');
+        var $galleria = $('#portfolioModal' + id).find('.galleria').data('galleria');
+
+        $('#portfolioModal' + id).find('.image-url').map(function(i, imageurl) {
+            $galleria.load({
+                thumb: $(imageurl).data('imageurl'),
+                image: $(imageurl).data('imageurl'),
+                big: $(imageurl).data('imageurl')
+            });
+        });
+    });
 });
 
 // Highlight the top nav as scrolling occurs
