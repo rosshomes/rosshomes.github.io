@@ -22,16 +22,19 @@ $(function() {
     $('.portfolio-link').click(function() {
         var id = $(this).data('id');
         var $galleria = $('#portfolioModal' + id).find('.galleria').data('galleria');
+        var imageList = $('#portfolioModal' + id).find('.image-url');
+        var length = imageList.length;
+        var dataList = [];
+        imageList.map(function(i, imageUrl) {
+          var imgPath = $(imageUrl).data('imageurl');
 
-        $('#portfolioModal' + id).find('.image-url').map(function(i, imageurl) {
-            $galleria.push({ image: $(imageurl).data('imageurl') });
-            $galleria.load({
-                thumb: $(imageurl).data('imageurl'),
-                image: $(imageurl).data('imageurl'),
-                big: $(imageurl).data('imageurl')
-            });
+          dataList.push({
+              thumb: imgPath,
+              image: imgPath,
+              big: imgPath
+          });
         });
-        $galleria.refreshImage();
+        $galleria.load(dataList);
 
         $('.galleria-image').on('click', function() {
             $galleria.toggleFullscreen();

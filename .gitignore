@@ -1,6 +1,6 @@
 **/*/.DS_Store
 **/*/*.log
-
+npm-debug.log
 _site
 node_modules
 bower_components
