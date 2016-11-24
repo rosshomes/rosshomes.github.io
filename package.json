@@ -4,7 +4,8 @@
   "description": "Agency Jekyll theme ====================",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "imagemin": "gulp imagemin",
+    "gulp": "gulp"
   },
   "repository": {
     "type": "git",
