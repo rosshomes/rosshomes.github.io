@@ -9,9 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-
-- Currently under construction.
-- Contact us for more details about this home package.
+- Sold.
 bedroom: 5
 bathroom: 3.5
 livingroom: 4
@@ -19,19 +17,35 @@ parking: 2
 landarea: 709
 floorarea: 295
 images:
- - url: assets/img/portfolio/l416ns.jpg
-   alt: 158 Wainui Road, Silverdale North-South
-   title: 158 Wainui Road, Silverdale North-South
+ - url: assets/img/portfolio/158WainuiFront.jpg
+   alt: 158 Wainui Road, Silverdale Front
+   title: 158 Wainui Road, Silverdale Front
 
- - url: assets/img/portfolio/l416fg.jpg
-   alt: 158 Wainui Road, Silverdale Ground Floor
-   title: 158 Wainui Road, Silverdale Ground Floor
+ - url: assets/img/portfolio/158WainuiSide.jpg
+   alt: 158 Wainui Road, Silverdale Side
+   title: 158 Wainui Road, Silverdale Side
 
- - url: assets/img/portfolio/l416f1.jpg
-   alt: 158 Wainui Road, Silverdale First Floor
-   title: 158 Wainui Road, Silverdale First Floor
+ - url: assets/img/portfolio/158WainuiL1.jpg
+   alt: 158 Wainui Road, Silverdale Lounge 1
+   title: 158 Wainui Road, Silverdale Lounge 1
 
- - url: assets/img/portfolio/l416ew.jpg
-   alt: 158 Wainui Road, Silverdale East West
-   title: 158 Wainui Road, Silverdale East West
+ - url: assets/img/portfolio/158WainuiL2.jpg
+   alt: 158 Wainui Road, Silverdale Lounge 2
+   title: 158 Wainui Road, Silverdale Lounge 2
+
+ - url: assets/img/portfolio/158WainuiB.jpg
+   alt: 158 Wainui Road, Silverdale Bathroom
+   title: 158 Wainui Road, Silverdale Bathroom
+
+ - url: assets/img/portfolio/158WainuiBR.jpg
+   alt: 158 Wainui Road, Silverdale Bedroom
+   title: 158 Wainui Road, Silverdale Bedroom
+
+ - url: assets/img/portfolio/158WainuiKL.jpg
+   alt: 158 Wainui Road, Silverdale Kitchen Lounge
+   title: 158 Wainui Road, Silverdale Kitchen Lounge
+
+ - url: assets/img/portfolio/158WainuiDeck.jpg
+   alt: 158 Wainui Road, Silverdale Deck
+   title: 158 Wainui Road, Silverdale Deck
 ---
