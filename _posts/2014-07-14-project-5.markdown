@@ -1,15 +1,40 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: 202 Wainui Rd
+subtitle: 202 Wainui Road, Silverdale
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
+- Currently under construction.
+- Contact us for more details about this home package.
+bedroom: 5
+bathroom: 3
+livingroom: 3
+parking: 2
+landarea: 507
+floorarea: 284
+images:
+ - url: assets/img/portfolio/202WanuiFront.jpg
+   alt: 202 Wainui Road, Silverdale Front
+   title: 202 Wainui Road, Silverdale Front
 
+ - url: assets/img/portfolio/202WanuiKL.jpg
+   alt: 202 Wainui Road, Silverdale Kitchen Lounge
+   title: 202 Wainui Road, Silverdale Kitchen Lounge
+
+ - url: assets/img/portfolio/202WanuiL.jpg
+   alt: 202 Wainui Road, Silverdale Lounge
+   title: 202 Wainui Road, Silverdale Lounge
+
+ - url: assets/img/portfolio/202WanuiBR.jpg
+   alt: 202 Wainui Road, Silverdale Bedroom
+   title: 202 Wainui Road, Silverdale Bedroom 
+
+ - url: assets/img/portfolio/202WanuiBY.jpg
+   alt: 202 Wainui Road, Silverdale Back Yard
+   title: 202 Wainui Road, Silverdale Back Yard
 ---
