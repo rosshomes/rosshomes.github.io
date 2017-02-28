@@ -18,19 +18,23 @@ parking: 2
 landarea: 507
 floorarea: 284
 images:
- - url: assets/img/portfolio/202ns.jpg
-   alt: 202 Wainui Road, Silverdale North-South
-   title: 202 Wainui Road, Silverdale North-South
+ - url: assets/img/portfolio/202WanuiFront.jpg
+   alt: 202 Wainui Road, Silverdale Front
+   title: 202 Wainui Road, Silverdale Front
 
- - url: assets/img/portfolio/202fg.jpg
-   alt: 202 Wainui Road, Silverdale Ground Floor
-   title: 202 Wainui Road, Silverdale Ground Floor
+ - url: assets/img/portfolio/202WanuiKL.jpg
+   alt: 202 Wainui Road, Silverdale Kitchen Lounge
+   title: 202 Wainui Road, Silverdale Kitchen Lounge
 
- - url: assets/img/portfolio/202f1.jpg
-   alt: 202 Wainui Road, Silverdale First Floor
-   title: 202 Wainui Road, Silverdale First Floor
+ - url: assets/img/portfolio/202WanuiL.jpg
+   alt: 202 Wainui Road, Silverdale Lounge
+   title: 202 Wainui Road, Silverdale Lounge
 
- - url: assets/img/portfolio/202ew.jpg
-   alt: 202 Wainui Road, Silverdale East West
-   title: 202 Wainui Road, Silverdale East West  
+ - url: assets/img/portfolio/202WanuiBR.jpg
+   alt: 202 Wainui Road, Silverdale Bedroom
+   title: 202 Wainui Road, Silverdale Bedroom 
+
+ - url: assets/img/portfolio/202WanuiBY.jpg
+   alt: 202 Wainui Road, Silverdale Back Yard
+   title: 202 Wainui Road, Silverdale Back Yard
 ---
