@@ -18,6 +18,28 @@ $(function() {
     Galleria.run('.galleria', {
         wait: true
     });
+
+    $('.portfolio-link').click(function() {
+        var id = $(this).data('id');
+        var $galleria = $('#portfolioModal' + id).find('.galleria').data('galleria');
+        var imageList = $('#portfolioModal' + id).find('.image-url');
+        var length = imageList.length;
+        var dataList = [];
+        imageList.map(function(i, imageUrl) {
+          var imgPath = $(imageUrl).data('imageurl');
+
+          dataList.push({
+              thumb: imgPath,
+              image: imgPath,
+              big: imgPath
+          });
+        });
+        $galleria.load(dataList);
+
+        $('.galleria-image').on('click', function() {
+            $galleria.toggleFullscreen();
+        });
+    });
 });
 
 // Highlight the top nav as scrolling occurs

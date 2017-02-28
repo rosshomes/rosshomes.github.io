@@ -1,15 +1,37 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: 158 Wainui Rd
+subtitle: 158 Wainui Road, Silverdale
 layout: default
 modal-id: 6
 date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:
 
+- Currently under construction.
+- Contact us for more details about this home package.
+bedroom: 5
+bathroom: 3.5
+livingroom: 4
+parking: 2
+landarea: 709
+floorarea: 295
+images:
+ - url: assets/img/portfolio/l416ns.jpg
+   alt: 158 Wainui Road, Silverdale North-South
+   title: 158 Wainui Road, Silverdale North-South
+
+ - url: assets/img/portfolio/l416fg.jpg
+   alt: 158 Wainui Road, Silverdale Ground Floor
+   title: 158 Wainui Road, Silverdale Ground Floor
+
+ - url: assets/img/portfolio/l416f1.jpg
+   alt: 158 Wainui Road, Silverdale First Floor
+   title: 158 Wainui Road, Silverdale First Floor
+
+ - url: assets/img/portfolio/l416ew.jpg
+   alt: 158 Wainui Road, Silverdale East West
+   title: 158 Wainui Road, Silverdale East West
 ---
