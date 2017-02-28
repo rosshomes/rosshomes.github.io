@@ -23,7 +23,7 @@ images:
    alt: 202 Wainui Road, Silverdale Front
    title: 202 Wainui Road, Silverdale Front
 
- - url: assets/img/portfolio/202WanuiKL.jpg
+ - url: assets/img/portfolio/202wanuiKL.jpg
    alt: 202 Wainui Road, Silverdale Kitchen Lounge
    title: 202 Wainui Road, Silverdale Kitchen Lounge
 
