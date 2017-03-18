@@ -9,9 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Auction at Bruce Mason Centre, Takapuna on Thu 09 Mar at 1:00p.p.
-- Open home Sat 04 Mar 1:00p.m. - 1:30p.m.
-- Open home Sun 05 Mar 1:00p.m. - 1:30p.m.
+- Sold.
 bedroom: 5
 bathroom: 3
 livingroom: 3
