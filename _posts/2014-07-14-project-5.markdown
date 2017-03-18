@@ -9,8 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Currently under construction.
-- Contact us for more details about this home package.
+- Sold.
 bedroom: 5
 bathroom: 3
 livingroom: 3
@@ -22,7 +21,7 @@ images:
    alt: 202 Wainui Road, Silverdale Front
    title: 202 Wainui Road, Silverdale Front
 
- - url: assets/img/portfolio/202WanuiKL.jpg
+ - url: assets/img/portfolio/202wanuiKL.jpg
    alt: 202 Wainui Road, Silverdale Kitchen Lounge
    title: 202 Wainui Road, Silverdale Kitchen Lounge
 
@@ -32,7 +31,7 @@ images:
 
  - url: assets/img/portfolio/202WanuiBR.jpg
    alt: 202 Wainui Road, Silverdale Bedroom
-   title: 202 Wainui Road, Silverdale Bedroom 
+   title: 202 Wainui Road, Silverdale Bedroom
 
  - url: assets/img/portfolio/202WanuiBY.jpg
    alt: 202 Wainui Road, Silverdale Back Yard
