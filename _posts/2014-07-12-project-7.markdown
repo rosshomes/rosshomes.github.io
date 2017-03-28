@@ -32,7 +32,7 @@ images:
    alt: 210 Wainui Road, Silverdale Side Gardern
    title: 210 Wainui Road, Silverdale Side Gardern
 
- - url: assets/img/portfolio/210WainuiF1L1.jpg
+ - url: assets/img/portfolio/210F1L1.jpg
    alt: 210 Wainui Road, Silverdale Floor 1 Lounge 1
    title: 210 Wainui Road, Silverdale Floor 1 Lounge 1
 
