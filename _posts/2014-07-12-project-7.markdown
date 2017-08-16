@@ -9,9 +9,6 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-
-- Auction Saturday 01 April 14:30PM - 15:00PM
-- Auction Sunday 02 April 14:30PM - 15:00PM
 - Contact us for more details about this home package.
 bedroom: 5
 bathroom: 3.5
