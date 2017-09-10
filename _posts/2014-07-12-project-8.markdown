@@ -1,0 +1,59 @@
+---
+title: 210 Wainui Rd
+subtitle: 210 Wainui Road, Silverdale
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Contact us for more details about this home package.
+bedroom: 5
+bathroom: 3.5
+livingroom: 4
+parking: 2
+landarea: 651
+floorarea: 359
+images:
+ - url: assets/img/portfolio/210WainuiFront.jpg
+   alt: 210 Wainui Road, Silverdale Front
+   title: 210 Wainui Road, Silverdale Front
+
+ - url: assets/img/portfolio/210WainuiOut.jpg
+   alt: 210 Wainui Road, Silverdale Out
+   title: 210 Wainui Road, Silverdale Out
+
+ - url: assets/img/portfolio/210WainuiP.jpg
+   alt: 210 Wainui Road, Silverdale Side Gardern
+   title: 210 Wainui Road, Silverdale Side Gardern
+
+ - url: assets/img/portfolio/210F1L1.jpg
+   alt: 210 Wainui Road, Silverdale Floor 1 Lounge 1
+   title: 210 Wainui Road, Silverdale Floor 1 Lounge 1
+
+ - url: assets/img/portfolio/210WainuiF1L.jpg
+   alt: 210 Wainui Road, Silverdale Floor 1 Lounge
+   title: 210 Wainui Road, Silverdale Floor 1 Lounge
+
+ - url: assets/img/portfolio/210WainuiK.jpg
+   alt: 210 Wainui Road, Silverdale Kitchen
+   title: 210 Wainui Road, Silverdale Kitchen
+
+ - url: assets/img/portfolio/210WainuiL2.jpg
+   alt: 210 Wainui Road, Silverdale Lounge 2
+   title: 210 Wainui Road, Silverdale Lounge 2
+
+ - url: assets/img/portfolio/210WainuiL2L.jpg
+   alt: 210 Wainui Road, Silverdale Level 2 Lounge
+   title: 210 Wainui Road, Silverdale Level 2 Lounge
+
+ - url: assets/img/portfolio/210WainuiB1.jpg
+   alt: 210 Wainui Road, Silverdale Bedroom 1
+   title: 210 Wainui Road, Silverdale Bedroom 1
+
+ - url: assets/img/portfolio/210WainuiB2.jpg
+   alt: 210 Wainui Road, Silverdale Bedroom 2
+   title: 210 Wainui Road, Silverdale Bedroom 2
+---
