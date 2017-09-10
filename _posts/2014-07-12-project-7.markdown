@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Contact us for more details about this home package.
+- Under Contract.
 bedroom: 5
 bathroom: 3.5
 livingroom: 4
