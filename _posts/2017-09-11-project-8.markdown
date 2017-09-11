@@ -3,7 +3,7 @@ title: 112 Kyle Road
 subtitle: 112 Kyle Road, Greenhithe
 layout: default
 modal-id: 8
-date: 2014-07-15
+date: 2017-09-11
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
