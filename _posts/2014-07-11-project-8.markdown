@@ -18,7 +18,7 @@ parking: 2
 landarea: 504
 floorarea: 259
 images:
- - url: assets/img/portfolio/112KyleRoadFront.jpg
+ - url: assets/img/portfolio/202WanuiBR.jpg
    alt: 112 Kyle Road, Greenhithe Front
    title: 112 Kyle Road, Greenhithe Front
 ---
