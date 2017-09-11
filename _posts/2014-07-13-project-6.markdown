@@ -17,35 +17,35 @@ parking: 2
 landarea: 709
 floorarea: 321
 images:
-  - url: assets/img/portfolio/158WainuiFront.jpg
-    alt: 158 Wainui Road, Silverdale Front
-    title: 158 Wainui Road, Silverdale Front
+ - url: assets/img/portfolio/158WainuiFront.jpg
+   alt: 158 Wainui Road, Silverdale Front
+   title: 158 Wainui Road, Silverdale Front
 
-  - url: assets/img/portfolio/158WainuiSide.jpg
-    alt: 158 Wainui Road, Silverdale Side
-    title: 158 Wainui Road, Silverdale Side
+ - url: assets/img/portfolio/158WainuiSide.jpg
+   alt: 158 Wainui Road, Silverdale Side
+   title: 158 Wainui Road, Silverdale Side
 
-  - url: assets/img/portfolio/158WainuiL1.jpg
-    alt: 158 Wainui Road, Silverdale Lounge 1
-    title: 158 Wainui Road, Silverdale Lounge 1
+ - url: assets/img/portfolio/158WainuiL1.jpg
+   alt: 158 Wainui Road, Silverdale Lounge 1
+   title: 158 Wainui Road, Silverdale Lounge 1
 
-  - url: assets/img/portfolio/158WainuiL2.jpg
-    alt: 158 Wainui Road, Silverdale Lounge 2
-    title: 158 Wainui Road, Silverdale Lounge 2
+ - url: assets/img/portfolio/158WainuiL2.jpg
+   alt: 158 Wainui Road, Silverdale Lounge 2
+   title: 158 Wainui Road, Silverdale Lounge 2
 
-  - url: assets/img/portfolio/158WainuiB.jpg
-    alt: 158 Wainui Road, Silverdale Bathroom
-    title: 158 Wainui Road, Silverdale Bathroom
+ - url: assets/img/portfolio/158WainuiB.jpg
+   alt: 158 Wainui Road, Silverdale Bathroom
+   title: 158 Wainui Road, Silverdale Bathroom
 
-  - url: assets/img/portfolio/158WainuiBR.jpg
-    alt: 158 Wainui Road, Silverdale Bedroom
-    title: 158 Wainui Road, Silverdale Bedroom
+ - url: assets/img/portfolio/158WainuiBR.jpg
+   alt: 158 Wainui Road, Silverdale Bedroom
+   title: 158 Wainui Road, Silverdale Bedroom
 
-  - url: assets/img/portfolio/158WainuiKL.jpg
-    alt: 158 Wainui Road, Silverdale Kitchen Lounge
-    title: 158 Wainui Road, Silverdale Kitchen Lounge
+ - url: assets/img/portfolio/158WainuiKL.jpg
+   alt: 158 Wainui Road, Silverdale Kitchen Lounge
+   title: 158 Wainui Road, Silverdale Kitchen Lounge
 
-  - url: assets/img/portfolio/158WainuiDeck.jpg
-    alt: 158 Wainui Road, Silverdale Deck
-    title: 158 Wainui Road, Silverdale Deck
+ - url: assets/img/portfolio/158WainuiDeck.jpg
+   alt: 158 Wainui Road, Silverdale Deck
+   title: 158 Wainui Road, Silverdale Deck
 ---
