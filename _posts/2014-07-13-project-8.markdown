@@ -22,7 +22,7 @@ images:
    alt: 112 Kyle Road, Greenhithe Front
    title: 112 Kyle Road, Greenhithe Front
 
- - url: assets/img/portfolio/112KyleL1.jpg
+ - url: assets/img/portfolio/112KyleRoadL1.jpg
    alt: 112 Kyle Road, Greenhithe Lounge 1
    title: 112 Kyle Road, Greenhithe Lounge 1
 
