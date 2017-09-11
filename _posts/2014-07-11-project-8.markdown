@@ -1,0 +1,24 @@
+---
+title: 112 Kyle Road
+subtitle: 112 Kyle Road, Greenhithe
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Auction at QBE Stadium, Albany on Thu 21 Sep at 01:00p.m.
+unless sold prior.
+bedroom: 5
+bathroom: 3
+livingroom: 1
+parking: 2
+landarea: 504
+floorarea: 259
+images:
+ - url: assets/img/portfolio/112KyleRoadFront.jpg
+   alt: 112 Kyle Road, Greenhithe Front
+   title: 112 Kyle Road, Greenhithe Front
+---
