@@ -10,7 +10,7 @@ alt: image-alt
 client: Start Bootstrap
 description:
 - Auction at QBE Stadium, Albany on Thu 21 Sep at 01:00p.m.
-unless sold prior.
+- unless sold prior.
 bedroom: 5
 bathroom: 3
 livingroom: 1
