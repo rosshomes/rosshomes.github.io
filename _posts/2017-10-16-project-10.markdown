@@ -1,0 +1,35 @@
+---
+title: 157 Colonial Drive
+subtitle: 157 Colonial Drive, Millwater
+layout: default
+modal-id: 9
+date: 2017-10-16
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Sold.
+bedroom: 5
+bathroom: 3.5
+livingroom: 1
+parking: 2
+landarea: 504
+floorarea: 259
+images:
+ - url: assets/img/portfolio/L503FG.jpg
+   alt: 157 Colonial Dr, Millwater Ground Floor
+   title: 157 Colonial Dr, Millwater Ground Floor
+
+ - url: assets/img/portfolio/L503F1.jpg
+   alt: 157 Colonial Dr, Millwater First Floor
+   title: 157 Colonial Dr, Millwater First Floor
+
+ - url: assets/img/portfolio/L503NS.jpg
+   alt: 157 Colonial Dr, Millwater North South
+   title: 157 Colonial Dr, Millwater North South
+
+ - url: assets/img/portfolio/L503EW.jpg
+   alt: 157 Colonial Dr, Millwater East West
+   title: 157 Colonial Dr, Millwater East West
+---
