@@ -1,6 +1,6 @@
 ---
-title: 210 Wainui Rd
-subtitle: 210 Wainui Road, Silverdale
+title: Wainui Rd
+subtitle: Wainui Road, Silverdale
 layout: default
 modal-id: 7
 date: 2014-07-15
@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Under Contract.
+- Sold.
 bedroom: 5
 bathroom: 3.5
 livingroom: 4

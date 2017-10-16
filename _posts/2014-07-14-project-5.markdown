@@ -1,6 +1,6 @@
 ---
-title: 202 Wainui Rd
-subtitle: 202 Wainui Road, Silverdale
+title: Wainui Rd
+subtitle: Wainui Road, Silverdale
 layout: default
 modal-id: 5
 date: 2014-07-15

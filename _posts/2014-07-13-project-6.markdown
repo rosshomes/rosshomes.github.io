@@ -1,6 +1,6 @@
 ---
-title: 158 Wainui Rd
-subtitle: 158 Wainui Road, Silverdale
+title: Wainui Rd
+subtitle: Wainui Road, Silverdale
 layout: default
 modal-id: 6
 date: 2014-07-15
