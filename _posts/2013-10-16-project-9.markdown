@@ -9,13 +9,13 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Sold.
+- Under construction, home package option available.
 bedroom: 5
 bathroom: 3.5
-livingroom: 1
+livingroom: 3
 parking: 2
-landarea: 504
-floorarea: 259
+landarea: 511
+floorarea: 290
 images:
  - url: assets/img/portfolio/L506FG.jpg
    alt: 151 Colonial Dr, Millwater Ground Floor
