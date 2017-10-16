@@ -11,8 +11,8 @@ client: Start Bootstrap
 description:
 - Under construction, home package option available.
 bedroom: 5
-bathroom: 3.5
-livingroom: 3
+bathroom: 3
+livingroom: 3.5
 parking: 2
 landarea: 511
 floorarea: 293
