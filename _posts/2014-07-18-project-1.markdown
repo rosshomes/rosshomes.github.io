@@ -7,8 +7,8 @@ date: 2015-7-1
 thumbnail: dreams-thumbnail.png
 
 bedroom: 6
-bathroom: 4
-livingroom: 3
+bathroom: 3
+livingroom: 4
 parking: 2
 landarea: 501
 floorarea: 331
