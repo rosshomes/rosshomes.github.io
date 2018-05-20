@@ -25,15 +25,15 @@ images:
    alt: 157 Colonial Dr, Millwater Lounge
    title: 157 Colonial Dr, Millwater Lounge
 
- - url: assets/img/portfolio/157CKitchen.jpg
+ - url: assets/img/portfolio/157Ckitchen.jpg
    alt: 157 Colonial Dr, Millwater Kitchen
    title: 157 Colonial Dr, Millwater Kitchen
 
- - url: assets/img/portfolio/157CBedroom.jpg
+ - url: assets/img/portfolio/157Cbedroom.jpg
    alt: 157 Colonial Dr, Millwater Bedroom
    title: 157 Colonial Dr, Millwater Bedroom
 
- - url: assets/img/portfolio/157CBedroom.jpg
+ - url: assets/img/portfolio/157CDedroom.jpg
    alt: 157 Colonial Dr, Millwater Bedroom
    title: 157 Colonial Dr, Millwater Bedroom
 ---
