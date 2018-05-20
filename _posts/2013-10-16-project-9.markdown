@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Under construction, home package option available.
+- For Sale
 bedroom: 5
 bathroom: 3
 livingroom: 3.5
@@ -17,19 +17,23 @@ parking: 2
 landarea: 511
 floorarea: 290
 images:
- - url: assets/img/portfolio/L506FG.jpg
-   alt: 151 Colonial Dr, Millwater Ground Floor
-   title: 151 Colonial Dr, Millwater Ground Floor
+ - url: assets/img/portfolio/151CFront.jpg
+   alt: 151 Colonial Dr, Millwater Front
+   title: 151 Colonial Dr, Millwater Front
 
- - url: assets/img/portfolio/L506F1.jpg
-   alt: 151 Colonial Dr, Millwater First Floor
-   title: 151 Colonial Dr, Millwater First Floor
+ - url: assets/img/portfolio/151CLounge.jpg
+   alt: 151 Colonial Dr, Millwater Lounge
+   title: 151 Colonial Dr, Millwater Lounge
 
- - url: assets/img/portfolio/L506NS.jpg
-   alt: 151 Colonial Dr, Millwater North South
-   title: 151 Colonial Dr, Millwater North South
+ - url: assets/img/portfolio/151CBedroom.jpg
+   alt: 151 Colonial Dr, Millwater Bedroom
+   title: 151 Colonial Dr, Millwater Bedroom
 
- - url: assets/img/portfolio/L506EW.jpg
-   alt: 151 Colonial Dr, Millwater East West
-   title: 151 Colonial Dr, Millwater East West
+ - url: assets/img/portfolio/151CKitchen.jpg
+   alt: 151 Colonial Dr, Millwater Kitchen
+   title: 151 Colonial Dr, Millwater Kitchen
+
+ - url: assets/img/portfolio/151CDeck.jpg
+   alt: 151 Colonial Dr, Millwater Kitchen
+   title: 151 Colonial Dr, Millwater Kitchen
 ---
