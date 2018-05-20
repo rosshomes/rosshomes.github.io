@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Under construction, home package option available.
+- For Sale
 bedroom: 5
 bathroom: 3
 livingroom: 3.5
@@ -17,19 +17,23 @@ parking: 2
 landarea: 511
 floorarea: 293
 images:
- - url: assets/img/portfolio/L503FG.jpg
-   alt: 157 Colonial Dr, Millwater Ground Floor
-   title: 157 Colonial Dr, Millwater Ground Floor
+ - url: assets/img/portfolio/157CFront.jpg
+   alt: 157 Colonial Dr, Millwater Front
+   title: 157 Colonial Dr, Millwater Front
 
- - url: assets/img/portfolio/L503F1.jpg
-   alt: 157 Colonial Dr, Millwater First Floor
-   title: 157 Colonial Dr, Millwater First Floor
+ - url: assets/img/portfolio/157CLounge.jpg
+   alt: 157 Colonial Dr, Millwater Lounge
+   title: 157 Colonial Dr, Millwater Lounge
 
- - url: assets/img/portfolio/L503NS.jpg
-   alt: 157 Colonial Dr, Millwater North South
-   title: 157 Colonial Dr, Millwater North South
+ - url: assets/img/portfolio/157CKitchen.jpg
+   alt: 157 Colonial Dr, Millwater Kitchen
+   title: 157 Colonial Dr, Millwater Kitchen
 
- - url: assets/img/portfolio/L503EW.jpg
-   alt: 157 Colonial Dr, Millwater East West
-   title: 157 Colonial Dr, Millwater East West
+ - url: assets/img/portfolio/157CBedroom.jpg
+   alt: 157 Colonial Dr, Millwater Bedroom
+   title: 157 Colonial Dr, Millwater Bedroom
+
+ - url: assets/img/portfolio/157CBedroom.jpg
+   alt: 157 Colonial Dr, Millwater Bedroom
+   title: 157 Colonial Dr, Millwater Bedroom
 ---
