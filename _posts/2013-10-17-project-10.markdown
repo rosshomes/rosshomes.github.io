@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- For Sale.
+- For Sale
 bedroom: 5
 bathroom: 3
 livingroom: 3.5
@@ -33,7 +33,7 @@ images:
    alt: 157 Colonial Dr, Millwater Bedroom
    title: 157 Colonial Dr, Millwater Bedroom
 
- - url: assets/img/portfolio/157CDedroom.jpg
+ - url: assets/img/portfolio/157CDeck.jpg
    alt: 157 Colonial Dr, Millwater Bedroom
    title: 157 Colonial Dr, Millwater Bedroom
 ---
