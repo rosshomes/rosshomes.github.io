@@ -1,0 +1,39 @@
+---
+title: 7 Pinefield Road
+subtitle: 7 Pinefield Road, Wheuapai
+layout: default
+modal-id: 11
+date: 2017-10-16
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Sold.
+bedroom: 5
+bathroom: 3
+livingroom: 3
+parking: 2
+landarea: 314
+floorarea: 240
+images:
+ - url: assets/img/portfolio/7PFront.jpg
+   alt: 7 Pinefield Road, Front
+   title: 7 Pinefield Road, Front
+
+ - url: assets/img/portfolio/7PLounge.jpg
+   alt: 7 Pinefield Road, Ground Floor
+   title: 7 Pinefield Road, Ground Floor
+
+ - url: assets/img/portfolio/7PKitchen.jpg
+   alt: 7 Pinefield Road, Kitchen
+   title: 7 Pinefield Road, Kitchen
+
+ - url: assets/img/portfolio/7PBedroom.jpg
+   alt: 7 Pinefield Road, Bedroom
+   title: 7 Pinefield Road, Bedroom
+
+ - url: assets/img/portfolio/7PDeck.jpg
+   alt: 7 Pinefield Road, Deck
+   title: 7 Pinefield Road, Deck
+---
