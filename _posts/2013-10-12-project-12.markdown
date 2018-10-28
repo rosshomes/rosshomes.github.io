@@ -1,6 +1,6 @@
 ---
-title: 7 Pinefield Road
-subtitle: 7 Pinefield Road, Wheuapai
+title: Pinefield Road
+subtitle: Pinefield Road, Wheuapai
 layout: default
 modal-id: 11
 date: 2017-10-16
@@ -18,22 +18,22 @@ landarea: 314
 floorarea: 240
 images:
  - url: assets/img/portfolio/7PFront.jpg
-   alt: 7 Pinefield Road, Front
-   title: 7 Pinefield Road, Front
+   alt: Pinefield Road, Front
+   title: Pinefield Road, Front
 
  - url: assets/img/portfolio/7PLounge.jpg
-   alt: 7 Pinefield Road, Ground Floor
-   title: 7 Pinefield Road, Ground Floor
+   alt: Pinefield Road, Ground Floor
+   title: Pinefield Road, Ground Floor
 
  - url: assets/img/portfolio/7PKitchen.jpg
-   alt: 7 Pinefield Road, Kitchen
-   title: 7 Pinefield Road, Kitchen
+   alt: Pinefield Road, Kitchen
+   title: Pinefield Road, Kitchen
 
  - url: assets/img/portfolio/7PBedroom.jpg
-   alt: 7 Pinefield Road, Bedroom
-   title: 7 Pinefield Road, Bedroom
+   alt: Pinefield Road, Bedroom
+   title: Pinefield Road, Bedroom
 
  - url: assets/img/portfolio/7PDeck.jpg
-   alt: 7 Pinefield Road, Deck
-   title: 7 Pinefield Road, Deck
+   alt: Pinefield Road, Deck
+   title: Pinefield Road, Deck
 ---

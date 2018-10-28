@@ -1,6 +1,6 @@
 ---
-title: 157 Colonial Drive
-subtitle: 157 Colonial Drive, Millwater
+title: Colonial Drive
+subtitle: Colonial Drive, Millwater
 layout: default
 modal-id: 10
 date: 2017-10-17
@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- For Sale
+- Sold.
 bedroom: 5
 bathroom: 3
 livingroom: 3.5
@@ -18,22 +18,22 @@ landarea: 511
 floorarea: 293
 images:
  - url: assets/img/portfolio/157CFront.jpg
-   alt: 157 Colonial Dr, Millwater Front
-   title: 157 Colonial Dr, Millwater Front
+   alt: Colonial Drive, Millwater Front
+   title: Colonial Drive, Millwater Front
 
  - url: assets/img/portfolio/157CLounge.jpg
-   alt: 157 Colonial Dr, Millwater Lounge
-   title: 157 Colonial Dr, Millwater Lounge
+   alt: Colonial Drive, Millwater Lounge
+   title: Colonial Drive, Millwater Lounge
 
  - url: assets/img/portfolio/157Ckitchen.jpg
-   alt: 157 Colonial Dr, Millwater Kitchen
-   title: 157 Colonial Dr, Millwater Kitchen
+   alt: Colonial Drive, Millwater Kitchen
+   title: Colonial Drive, Millwater Kitchen
 
  - url: assets/img/portfolio/157Cbedroom.jpg
-   alt: 157 Colonial Dr, Millwater Bedroom
-   title: 157 Colonial Dr, Millwater Bedroom
+   alt: Colonial Drive, Millwater Bedroom
+   title: Colonial Drive, Millwater Bedroom
 
  - url: assets/img/portfolio/157CDeck.jpg
-   alt: 157 Colonial Dr, Millwater Bedroom
-   title: 157 Colonial Dr, Millwater Bedroom
+   alt: Colonial Drive, Millwater Bedroom
+   title: Colonial Drive, Millwater Bedroom
 ---
