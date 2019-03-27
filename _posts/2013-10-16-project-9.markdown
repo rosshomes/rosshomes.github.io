@@ -1,6 +1,6 @@
 ---
-title: 151 Colonial Drive
-subtitle: 151 Colonial Drive, Millwater
+title: Colonial Drive
+subtitle: Colonial Drive, Millwater
 layout: default
 modal-id: 9
 date: 2017-10-16

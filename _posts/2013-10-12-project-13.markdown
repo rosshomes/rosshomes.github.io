@@ -1,6 +1,6 @@
 ---
-title: 146 Wainui Road
-subtitle: 146 Wainui Road, Millwater
+title: Wainui Road
+subtitle: Wainui Road, Millwater
 layout: default
 modal-id: 12
 date: 2018-11-03
