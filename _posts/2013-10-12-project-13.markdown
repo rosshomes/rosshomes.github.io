@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Open Home - Saturday 3rd of November 3:00PM to 3:30PM.
+- Sold.
 bedroom: 4
 bathroom: 2
 livingroom: 2
