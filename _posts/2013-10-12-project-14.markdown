@@ -1,0 +1,43 @@
+---
+title: 25 Rathmullen Place, Pinehill
+subtitle: 25 Rathmullen Place, Pinehill
+layout: default
+modal-id: 13
+date: 2017-10-17
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Sold.
+bedroom: 6
+bathroom: 5.5
+livingroom: 3
+parking: 2
+landarea: 314
+floorarea: 240
+images:
+ - url: assets/img/portfolio/25RathmullenF.jpg
+   alt: Rathmullen Place, Front
+   title: Rathmullen Place, Front
+
+ - url: assets/img/portfolio/25RathmullenL1.jpg
+   alt: Rathmullen Place, Ground Floor
+   title: Rathmullen Place, Ground Floor
+
+ - url: assets/img/portfolio/25RathmullenFL2.jpg
+   alt: Rathmullen Place, 1st Floor
+   title: Rathmullen Place, 1st Floor
+
+ - url: assets/img/portfolio/25RathmullenK1.jpg
+   alt: Rathmullen Place, Kitchen
+   title: Rathmullen Place, Kitchen
+
+ - url: assets/img/portfolio/25RathmullenBR1.jpg
+    alt: Rathmullen Place, Bedroom
+    title: Rathmullen Place, Bedroom
+
+ - url: assets/img/portfolio/25RathmullenB1.jpg
+   alt: Rathmullen Place, Deck
+   title: Rathmullen Place, Deck
+---
