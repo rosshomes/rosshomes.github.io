@@ -14,8 +14,8 @@ bedroom: 6
 bathroom: 5.5
 livingroom: 3
 parking: 2
-landarea: 314
-floorarea: 240
+landarea: 500
+floorarea: 400
 images:
  - url: assets/img/portfolio/25RathmullenF.jpg
    alt: Rathmullen Place, Front
