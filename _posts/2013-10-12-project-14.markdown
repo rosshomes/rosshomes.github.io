@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Sold.
+- Open home 1:00pm - 1:30pm Saturday April 20th and Sunday April 21st
 bedroom: 6
 bathroom: 5.5
 livingroom: 3
@@ -34,8 +34,8 @@ images:
    title: Rathmullen Place, Kitchen
 
  - url: assets/img/portfolio/25RathmullenBR1.jpg
-    alt: Rathmullen Place, Bedroom
-    title: Rathmullen Place, Bedroom
+   alt: Rathmullen Place, Bedroom
+   title: Rathmullen Place, Bedroom
 
  - url: assets/img/portfolio/25RathmullenB1.jpg
    alt: Rathmullen Place, Deck
