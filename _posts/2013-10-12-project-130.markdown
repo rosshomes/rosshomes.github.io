@@ -1,0 +1,39 @@
+---
+title: Wainui Road
+subtitle: Wainui Road, Millwater
+layout: default
+modal-id: 12
+date: 2018-11-03
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description:
+- Sold.
+bedroom: 4
+bathroom: 2
+livingroom: 2
+parking: 2
+landarea: 517
+floorarea: 204
+images:
+ - url: assets/img/portfolio/146WFront.jpg
+   alt: 146 Wainui Road, Front
+   title: 146 Wainui Road, Front
+
+ - url: assets/img/portfolio/146WLounge.jpg
+   alt: 146 Wainui Road, Lounge
+   title: 146 Wainui Road, Lounge
+
+ - url: assets/img/portfolio/146WKitchen.jpg
+   alt: 146 Wainui Road, Kitchen
+   title: 146 Wainui Road, Kitchen
+
+ - url: assets/img/portfolio/146WBR1.jpg
+   alt: 146 Wainui Road, Bedroom
+   title: 146 Wainui Road, Bedroom
+
+ - url: assets/img/portfolio/146WDeck.jpg
+   alt: 146 Wainui Road, Deck
+   title: 146 Wainui Road, Deck
+---
