@@ -25,7 +25,7 @@ images:
    alt: Rathmullen Place, Ground Floor
    title: Rathmullen Place, Ground Floor
 
- - url: assets/img/portfolio/25RathmullenFL2.jpg
+ - url: assets/img/portfolio/25RathmullenL2.jpg
    alt: Rathmullen Place, 1st Floor
    title: Rathmullen Place, 1st Floor
 
