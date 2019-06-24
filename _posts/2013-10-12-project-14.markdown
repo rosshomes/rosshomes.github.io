@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Open home 1:00pm - 1:30pm Saturday April 20th and Sunday April 21st
+- Sold.
 bedroom: 6
 bathroom: 5.5
 livingroom: 3
