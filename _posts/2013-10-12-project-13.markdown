@@ -9,7 +9,7 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 description:
-- Sold.
+- This has been hacked. Very cool.
 bedroom: 4
 bathroom: 2
 livingroom: 2
