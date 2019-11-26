@@ -2,7 +2,7 @@
 title: Wainui Road
 subtitle: Wainui Road, Millwater
 layout: default
-modal-id: 12
+modal-id: 15
 date: 2019-11-26
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
@@ -20,5 +20,4 @@ images:
  - url: assets/img/portfolio/Lot201.JPG
    alt: Wainui Road, Millwater
    title: Wainui Road, Millwater
-
 ---
