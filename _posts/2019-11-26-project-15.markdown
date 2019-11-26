@@ -1,5 +1,5 @@
 ---
-title: Wainui Road
+title: 108A Wainui Road
 subtitle: Wainui Road, Millwater
 layout: default
 modal-id: 15
@@ -14,10 +14,10 @@ bedroom: 5
 bathroom: 4
 livingroom: 3
 parking: 2
-landarea: 312
+landarea: 353
 floorarea: 240
 images:
- - url: assets/img/portfolio/Lot201.JPG
-   alt: Wainui Road, Millwater
-   title: Wainui Road, Millwater
+ - url: assets/img/portfolio/Lot202.JPG
+   alt: 108A Wainui Road, Millwater
+   title: 108A Wainui Road, Millwater
 ---
