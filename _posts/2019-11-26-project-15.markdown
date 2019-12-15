@@ -8,8 +8,7 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
-description:
-Coming Soon...
+description: Coming Soon...
 bedroom: 5
 bathroom: 4
 livingroom: 3
