@@ -19,4 +19,40 @@ images:
  - url: assets/img/portfolio/Lot202.JPG
    alt: 108A Wainui Road, Millwater
    title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(1).jpg
+   alt: 108A Wainui Road, Millwater
+   title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(2).jpg
+    alt: 108A Wainui Road, Millwater
+    title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(3).jpg
+    alt: 108A Wainui Road, Millwater
+    title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(4).jpg
+    alt: 108A Wainui Road, Millwater
+    title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(5).jpg
+    alt: 108A Wainui Road, Millwater
+    title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(6).jpg
+    alt: 108A Wainui Road, Millwater
+    title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(7).jpg
+     alt: 108A Wainui Road, Millwater
+     title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(8).jpg
+     alt: 108A Wainui Road, Millwater
+     title: 108A Wainui Road, Millwater
+
+ - url: assets/img/portfolio/Lot202(9).jpg
+      alt: 108A Wainui Road, Millwater
+      title: 108A Wainui Road, Millwater
 ---
