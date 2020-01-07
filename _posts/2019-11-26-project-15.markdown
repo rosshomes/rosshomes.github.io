@@ -8,13 +8,13 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
-description: Coming Soon...
+description: Coming Soon
 bedroom: 5
 bathroom: 4
 livingroom: 3
 parking: 2
 landarea: 353
-floorarea: 240
+floorarea: 353
 images:
  - url: assets/img/portfolio/Lot202.JPG
    alt: 108A Wainui Road, Millwater
