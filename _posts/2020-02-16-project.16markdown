@@ -15,7 +15,13 @@ livingroom: 1
 parking: 1
 landarea: 247
 images:
+ - url: assets/img/portfolio/68-1.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
 
+ - url: assets/img/portfolio/68-70-72-2.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
 
  - url: assets/img/portfolio/4h1cf.jpg
    alt: 68 Arran Point Parade
