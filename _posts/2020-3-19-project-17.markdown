@@ -1,0 +1,46 @@
+---
+title: Ormonde Drive
+subtitle: Ormonde Drive, Millwater
+layout: default
+modal-id: 23
+date: 2020-3-19
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description: Coming Soon
+bedroom: 5
+bathroom: 3
+livingroom: 2
+parking: 2
+landarea: 472
+floorarea: 278
+images:
+ - url: assets/img/portfolio/Ormonde 1.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+
+ - url: assets/img/portfolio/Ormonde 2.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+
+ - url: assets/img/portfolio/Ormonde 3.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+
+ - url: assets/img/portfolio/Ormonde 4.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+
+ - url: assets/img/portfolio/Ormonde 5.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+
+ - url: assets/img/portfolio/Ormonde 6.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+
+ - url: assets/img/portfolio/Ormonde 7.jpg
+   alt: Ormonde Drive
+   title: Ormonde Drive
+---
