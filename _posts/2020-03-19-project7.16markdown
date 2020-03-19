@@ -14,6 +14,7 @@ bathroom: 3
 livingroom: 2
 parking: 2
 landarea: 472
+floorarea: 278
 images:
  - url: assets/img/portfolio/Ormonde 1.jpg
    alt: Ormonde Drive
