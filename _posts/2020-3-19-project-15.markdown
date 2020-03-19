@@ -1,0 +1,62 @@
+---
+title: Ormonde Drive
+subtitle: Ormonde Drive, Millwater
+layout: default
+modal-id: 24
+date: 2020-3-19
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+description: Coming Soon
+bedroom: 5
+bathroom: 3
+livingroom: 2
+parking: 2
+landarea: 472
+floorarea: 278
+images:
+ - url: assets/img/portfolio/80-82-1.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/78-80-82-3.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/76-78-80-82-4.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cf.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cg.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cj.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cr.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cs.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cw.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1cx.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/4h1ef.jpg
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+---
