@@ -8,13 +8,14 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
-description: Sold
+
 bedroom: 5
 bathroom: 3
 livingroom: 2
 parking: 2
 landarea: 472
 floorarea: 278
+description: Sold.
 images:
  - url: assets/img/portfolio/Ormonde 1.jpg
    alt: Ormonde Drive
