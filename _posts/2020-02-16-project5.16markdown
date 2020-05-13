@@ -15,6 +15,14 @@ livingroom: 1
 parking: 1
 landarea: 155
 images:
+ - url: assets/img/portfolio/82-80-Arran1.JPG
+   alt: 80 Arran Point Parade
+   title: 80 Arran Point Parade
+
+ - url: assets/img/portfolio/82-80-Arran2.JPG
+   alt: 80 Arran Point Parade
+   title: 80 Arran Point Parade
+
  - url: assets/img/portfolio/80-Arran1.JPG
    alt: 80 Arran Point Parade
    title: 80 Arran Point Parade
@@ -52,14 +60,6 @@ images:
    title: 80 Arran Point Parade
 
  - url: assets/img/portfolio/80-Arran10.JPG
-   alt: 80 Arran Point Parade
-   title: 80 Arran Point Parade
-
- - url: assets/img/portfolio/82-80-Arran1.JPG
-   alt: 80 Arran Point Parade
-   title: 80 Arran Point Parade
-
- - url: assets/img/portfolio/82-80-Arran2.JPG
    alt: 80 Arran Point Parade
    title: 80 Arran Point Parade
 
