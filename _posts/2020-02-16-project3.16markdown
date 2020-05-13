@@ -63,14 +63,6 @@ images:
    alt: 68 Arran Point Parade
    title: 68 Arran Point Parade
 
- - url: assets/img/portfolio/Arran1.JPG
-   alt: 68 Arran Point Parade
-   title: 68 Arran Point Parade
-
- - url: assets/img/portfolio/Arran2.JPG
-   alt: 68 Arran Point Parade
-   title: 68 Arran Point Parade
-
  - url: assets/img/portfolio/74-76-78-1.JPG
    alt: 68 Arran Point Parade
    title: 68 Arran Point Parade
@@ -80,6 +72,18 @@ images:
    title: 68 Arran Point Parade
 
  - url: assets/img/portfolio/74-76-78-3.JPG
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/Arran1.JPG
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/Arran2.JPG
+   alt: 68 Arran Point Parade
+   title: 68 Arran Point Parade
+
+ - url: assets/img/portfolio/Arran3.JPG
    alt: 68 Arran Point Parade
    title: 68 Arran Point Parade
 ---
