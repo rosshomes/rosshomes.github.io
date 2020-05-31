@@ -1,0 +1,62 @@
+---
+title: 87 Rathmullen Place
+subtitle: 87 Rathmullen Place, Pinehill
+layout: default
+modal-id: 25
+date: 2020-5-31
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 6
+bathroom: 4
+livingroom: 3
+parking: 2
+landarea: 460
+floorarea:
+description: For Sale.
+images:
+ - url: assets/img/portfolio/Rathmullen1.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen2.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen3.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen4.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen5.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen6.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen7.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen8.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen9.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen10.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
+
+ - url: assets/img/portfolio/Rathmullen11.jpg
+   alt: Rathmullen Place
+   title: Rathmullen Place
