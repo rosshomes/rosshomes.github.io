@@ -14,7 +14,7 @@ bathroom: 4
 livingroom: 3
 parking: 2
 landarea: 460
-floorarea: 0
+floorarea:
 description: For Sale.
 images:
  - url: assets/img/portfolio/Rathmullen1.jpg
