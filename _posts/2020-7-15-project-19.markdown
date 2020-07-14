@@ -1,0 +1,70 @@
+---
+title: Pampas Drive
+subtitle: Pampas Drive, Millwater
+layout: default
+modal-id: 26
+date: 2020-5-17
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 5
+bathroom: 3
+livingroom: 3
+parking: 2
+landarea: 511
+floorarea: 284
+description: For Sale
+images:
+ - url: assets/img/portfolio/Pampas1.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas2.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas3.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas4.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas5.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas6.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas7.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas8.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas9.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas10.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas11.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+ - url: assets/img/portfolio/Pampas12.jpg
+   alt: Pampas Drive
+   title: Pampas Drive
+
+
+
+---
