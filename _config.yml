@@ -8,7 +8,7 @@ description: "Ross Homes Limited"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: c09f80
-  secondary: c09f80
+  secondary: 76323f
   secondary-dark: 333
 
 #
