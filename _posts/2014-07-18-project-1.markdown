@@ -2,7 +2,7 @@
 title: Medallion Drive
 subtitle: Medallion Drive, Albany
 layout: default
-modal-id: 1
+modal-id: 20
 date: 2015-7-1
 thumbnail: dreams-thumbnail.png
 
