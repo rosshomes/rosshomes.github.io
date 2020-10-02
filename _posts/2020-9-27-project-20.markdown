@@ -11,10 +11,10 @@ client: Start Bootstrap
 
 bedroom: 4
 bathroom: 2
-livingroom: 1
+livingroom: 2
 parking: 2
 landarea: 511
-floorarea: 499
+floorarea: 174
 description: For Sale
 images:
  - url: assets/img/portfolio/Ahutoetoe 1.jpg
