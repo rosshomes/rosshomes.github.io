@@ -17,7 +17,7 @@ parking: 2
 landarea: 507
 floorarea: 284
 images:
- - url: assets/img/portfolio/202WanuiFront.jpg
+ - url: assets/img/portfolio/202WainuiFront.jpg
    alt: 202 Wainui Road, Silverdale Front
    title: 202 Wainui Road, Silverdale Front
 
