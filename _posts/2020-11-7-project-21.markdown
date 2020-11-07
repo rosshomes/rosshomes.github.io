@@ -18,30 +18,30 @@ floorarea:
 description: For Sale
 images:
  - url: assets/img/portfolio/126Godfrey1.jpg
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 
  - url: assets/img/portfolio/126Godfrey2.png
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 
  - url: assets/img/portfolio/126Godfrey3.png
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 
  - url: assets/img/portfolio/126Godfrey4.png
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 
  - url: assets/img/portfolio/126Godfrey5.png
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 
  - url: assets/img/portfolio/126Godfrey6.png
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 
  - url: assets/img/portfolio/126Godfrey7.png
-   alt: Ahutoetoe Road
-   title: Ahutoetoe Road
+   alt: Godfrey Drive
+   title: Godfrey Drive
 ---
