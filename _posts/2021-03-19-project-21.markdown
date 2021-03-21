@@ -1,0 +1,39 @@
+---
+title: Lot 418 Houpuni Road
+subtitle: Lot 418 Houpuni Road, Milldale
+layout: default
+modal-id: 28
+date: 2021-03-19
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 5.5
+bathroom: 3.5
+livingroom: 2
+parking: 2
+landarea: 504
+floorarea: 250
+description: For Sale
+images:
+ - url: assets/img/portfolio/Lot 418 Archi Plan P1.jpg
+   alt: Houpuni Road
+   title: Houpuni Road
+
+ - url: assets/img/portfolio/Lot 418 Archi Plan P2.jpg
+   alt: Houpuni Road
+   title: Houpuni Road
+
+ - url: assets/img/portfolio/Lot 418 Archi Plan P3.jpg
+   alt: Houpuni Road
+   title: Houpuni Road
+
+ - url: assets/img/portfolio/Lot 418 Archi Plan P4.jpg
+   alt: Houpuni Road
+   title: Houpuni Road
+
+ - url: assets/img/portfolio/Lot 418 Archi Plan P5.jpg
+   alt: Houpuni Road
+   title: Houpuni Road
+---
