@@ -1,0 +1,23 @@
+---
+title: Wainui Road
+subtitle: Wainui Road
+layout: default
+modal-id: 28
+date: 2021-03-19
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 5
+bathroom: 5
+livingroom: 2
+parking: 2
+landarea: 677
+floorarea: 353
+description: Sold
+images:
+ - url: assets/img/portfolio/108a.jpeg
+   alt: Houpuni Road
+   title: Houpuni Road
+---
