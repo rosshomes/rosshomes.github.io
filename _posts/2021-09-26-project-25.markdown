@@ -1,0 +1,51 @@
+---
+title: 2 Paikea Road
+subtitle: 2 Paikea Road
+layout: default
+modal-id: 32
+date: 2021-09-24
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 6
+bathroom: 5
+livingroom: 2
+parking: 2
+landarea: 606
+floorarea: 606
+description: For Sale
+images:
+ - url: assets/img/portfolio/PaikeaFront.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaBackyard.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaKitchen.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaLounge.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaRoom.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaUpstairs.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaBedroom.JPG
+   alt: Paikea Street
+   title: Paikea Street
+
+ - url: assets/img/portfolio/PaikeaBathroom.JPG
+   alt: Paikea Street
+   title: Paikea Street
+---
