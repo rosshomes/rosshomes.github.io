@@ -1,6 +1,6 @@
 ---
-title: 2 Paikea Road
-subtitle: 2 Paikea Road
+title: 2 Paikea Street
+subtitle: 2 Paikea Street
 layout: default
 modal-id: 32
 date: 2021-09-24
