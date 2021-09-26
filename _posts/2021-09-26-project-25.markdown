@@ -17,35 +17,35 @@ landarea: 606
 floorarea: 606
 description: For Sale
 images:
- - url: assets/img/portfolio/PaikeaFront.JPG
+ - url: assets/img/portfolio/PaikeaFront.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaBackyard.JPG
+ - url: assets/img/portfolio/PaikeaBackyard.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaKitchen.JPG
+ - url: assets/img/portfolio/PaikeaKitchen.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaLounge.JPG
+ - url: assets/img/portfolio/PaikeaLounge.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaRoom.JPG
+ - url: assets/img/portfolio/PaikeaRoom.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaUpstairs.JPG
+ - url: assets/img/portfolio/PaikeaUpstairs.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaBedroom.JPG
+ - url: assets/img/portfolio/PaikeaBedroom.jpeg
    alt: Paikea Street
    title: Paikea Street
 
- - url: assets/img/portfolio/PaikeaBathroom.JPG
+ - url: assets/img/portfolio/PaikeaBathroom.jpeg
    alt: Paikea Street
    title: Paikea Street
 ---
