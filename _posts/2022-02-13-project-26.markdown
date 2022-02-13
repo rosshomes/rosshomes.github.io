@@ -17,15 +17,15 @@ landarea: 400
 floorarea: 180
 description: For Sale
 images:
- - url: assets/img/portfolio/MaryvaleFront.jpeg
+ - url: assets/img/portfolio/MaryvaleFront.jpg
    alt: Maryvale Road
    title: Maryvale Road
 
- - url: assets/img/portfolio/MaryvaleFloor.jpeg
+ - url: assets/img/portfolio/MaryvaleFloor.jpg
    alt: Maryvale Road
    title: Maryvale Road
 
- - url: assets/img/portfolio/MaryvaleFloor2.jpeg
+ - url: assets/img/portfolio/MaryvaleFloor2.jpg
    alt: Maryvale Road
    title: Maryvale Road
 ---
