@@ -14,8 +14,8 @@ bathroom: 5
 livingroom: 2
 parking: 2
 landarea: 606
-floorarea: 606
-description: For Sale
+floorarea: 399
+description: Sold
 images:
  - url: assets/img/portfolio/PaikeaFront.jpeg
    alt: Paikea Street
