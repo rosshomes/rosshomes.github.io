@@ -1,6 +1,6 @@
 ---
 title: 39 Maryvale Road
-subtitle: 39 Maryvale Road
+subtitle: 39 Maryvale Road, Milldale
 layout: default
 modal-id: 33
 date: 2022-02-13
