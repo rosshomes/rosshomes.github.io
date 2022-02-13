@@ -1,51 +1,30 @@
 ---
-title: 2 Paikea Street
-subtitle: 2 Paikea Street
+title: 39 Maryvale Road
+subtitle: 39 Maryvale Road
 layout: default
-modal-id: 32
-date: 2021-09-24
+modal-id: 33
+date: 2022-02-13
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 
-bedroom: 6
-bathroom: 5
+bedroom: 4
+bathroom: 2
 livingroom: 2
 parking: 2
-landarea: 606
-floorarea: 606
+landarea: 400
+floorarea: 180
 description: For Sale
 images:
- - url: assets/img/portfolio/PaikeaFront.jpeg
-   alt: Paikea Street
-   title: Paikea Street
+ - url: assets/img/portfolio/MaryvaleFront.jpeg
+   alt: Maryvale Road
+   title: Maryvale Road
 
- - url: assets/img/portfolio/PaikeaBackyard.jpeg
-   alt: Paikea Street
-   title: Paikea Street
+ - url: assets/img/portfolio/MaryvaleFloor.jpeg
+   alt: Maryvale Road
+   title: Maryvale Road
 
- - url: assets/img/portfolio/PaikeaKitchen.jpeg
-   alt: Paikea Street
-   title: Paikea Street
-
- - url: assets/img/portfolio/PaikeaLounge.jpeg
-   alt: Paikea Street
-   title: Paikea Street
-
- - url: assets/img/portfolio/PaikeaRoom.jpeg
-   alt: Paikea Street
-   title: Paikea Street
-
- - url: assets/img/portfolio/PaikeaUpstairs.jpeg
-   alt: Paikea Street
-   title: Paikea Street
-
- - url: assets/img/portfolio/PaikeaBedroom.jpeg
-   alt: Paikea Street
-   title: Paikea Street
-
- - url: assets/img/portfolio/PaikeaBathroom.jpeg
-   alt: Paikea Street
-   title: Paikea Street
----
+ - url: assets/img/portfolio/MaryvaleFloor2.jpeg
+   alt: Maryvale Road
+   title: Maryvale Road
