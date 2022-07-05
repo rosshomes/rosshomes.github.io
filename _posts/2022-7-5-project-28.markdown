@@ -40,4 +40,8 @@ images:
  - url: assets/img/portfolio/Lot 204 page-0006.jpg
    alt: Lot 204 Milldale
    title: Lot 204 Milldale
+
+ - url: assets/img/portfolio/Lot 204 page-0007.jpg
+   alt: Lot 204 Milldale
+   title: Lot 204 Milldale
 ---
