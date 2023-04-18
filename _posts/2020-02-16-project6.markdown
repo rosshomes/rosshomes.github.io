@@ -1,5 +1,5 @@
 ---
-title: 82 Arran Point Parade
+title: 68-82 Arran Point Parade
 subtitle: Millwater
 layout: default
 modal-id: 21
@@ -15,7 +15,7 @@ livingroom: 1
 parking: 1
 landarea: 226
 images:
- - url: assets/img/portfolio/Arran1.JPG
+ - url: assets/img/portfolio/Arran3.JPG
    alt: 82 Arran Point Parade
    title: 82 Arran Point Parade
 
@@ -23,7 +23,7 @@ images:
    alt: 82 Arran Point Parade
    title: 82 Arran Point Parade
 
- - url: assets/img/portfolio/Arran3.JPG
+ - url: assets/img/portfolio/Arran1.JPG
    alt: 82 Arran Point Parade
    title: 82 Arran Point Parade
 
