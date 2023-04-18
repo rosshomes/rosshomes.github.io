@@ -2,7 +2,7 @@
 title: 26 Pampas Drive
 subtitle: 26 Pampas Drive, Millwater
 layout: default
-modal-id: 26
+modal-id: 24
 date: 2020-5-17
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
