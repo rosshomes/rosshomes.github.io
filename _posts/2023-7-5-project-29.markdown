@@ -1,0 +1,47 @@
+---
+title: 14 Karapapa Road, Milldale
+subtitle: 14 Karapapa Road, Milldale
+layout: default
+modal-id: 36
+date: 2023-4-18
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 4
+bathroom: 2
+livingroom: 2
+parking: 2
+landarea: 401
+floorarea: 180
+description: For Sale.
+images:
+ - url: assets/img/portfolio/14kF.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+
+ - url: assets/img/portfolio/14KKitchen.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+
+ - url: assets/img/portfolio/14KBR1.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+
+ - url: assets/img/portfolio/14KBY.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+
+ - url: assets/img/portfolio/14KD.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+
+ - url: assets/img/portfolio/14KFloorplan.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+
+ - url: assets/img/portfolio/14KLocation.jpeg
+   alt: 14 Karapapa Road, Milldale
+   title: 14 Karapapa Road, Milldale
+---
