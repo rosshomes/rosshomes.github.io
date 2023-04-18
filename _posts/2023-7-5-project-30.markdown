@@ -1,6 +1,6 @@
 ---
-title: Lot 204 Milldale
-subtitle: Lot 204 Milldale
+title: 57 Waiwai Drive, Milldale
+subtitle: 57 Waiwai Drive, Milldale
 layout: default
 modal-id: 35
 date: 2022-7-5
@@ -9,35 +9,35 @@ thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
 
-bedroom: 6
-bathroom: 4
-livingroom: 3
+bedroom: 4
+bathroom: 3
+livingroom: 1
 parking: 2
-landarea: 401
-floorarea: 401
+landarea: 493
+floorarea: 214
 description: For Sale.
 images:
  - url: assets/img/portfolio/Lot 204 page-0001.jpg
-   alt: Lot 204 Milldale
-   title: Lot 204 Milldale
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
 
  - url: assets/img/portfolio/Lot 204 page-0002.jpg
-   alt: Lot 204 Milldale
-   title: Lot 204 Milldale
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
 
  - url: assets/img/portfolio/Lot 204 page-0003.jpg
-   alt: Lot 204 Milldale
-   title: Lot 204 Milldale
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
 
  - url: assets/img/portfolio/Lot 204 page-0004.jpg
-   alt: Lot 204 Milldale
-   title: Lot 204 Milldale
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
 
  - url: assets/img/portfolio/Lot 204 page-0005.jpg
-   alt: Lot 204 Milldale
-   title: Lot 204 Milldale
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
 
  - url: assets/img/portfolio/Lot 204 page-0006.jpg
-   alt: Lot 204 Milldale
-   title: Lot 204 Milldale
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
 ---

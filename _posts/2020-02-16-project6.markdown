@@ -8,13 +8,25 @@ img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
 client: Start Bootstrap
-description: Coming Soon
+description: Completed March 2020
 bedroom: 3
 bathroom: 2
 livingroom: 1
 parking: 1
 landarea: 226
 images:
+ - url: assets/img/portfolio/Arran1.JPG
+   alt: 82 Arran Point Parade
+   title: 82 Arran Point Parade
+
+ - url: assets/img/portfolio/Arran2.JPG
+   alt: 82 Arran Point Parade
+   title: 82 Arran Point Parade
+
+ - url: assets/img/portfolio/Arran3.JPG
+   alt: 82 Arran Point Parade
+   title: 82 Arran Point Parade
+
  - url: assets/img/portfolio/82-80-Arran1.JPG
    alt: 82 Arran Point Parade
    title: 82 Arran Point Parade
@@ -60,18 +72,6 @@ images:
    title: 82 Arran Point Parade
 
  - url: assets/img/portfolio/82-Arran10.JPG
-   alt: 82 Arran Point Parade
-   title: 82 Arran Point Parade
-
- - url: assets/img/portfolio/Arran1.JPG
-   alt: 82 Arran Point Parade
-   title: 82 Arran Point Parade
-
- - url: assets/img/portfolio/Arran2.JPG
-   alt: 82 Arran Point Parade
-   title: 82 Arran Point Parade
-
- - url: assets/img/portfolio/Arran3.JPG
    alt: 82 Arran Point Parade
    title: 82 Arran Point Parade
 ---
