@@ -17,27 +17,35 @@ landarea: 493
 floorarea: 214
 description: For Sale.
 images:
- - url: assets/img/portfolio/Lot 204 page-0001.jpg
+ - url: assets/img/portfolio/57WWF.jpeg
    alt: 57 Waiwai Drive, Milldale
    title: 57 Waiwai Drive, Milldale
 
- - url: assets/img/portfolio/Lot 204 page-0002.jpg
+ - url: assets/img/portfolio/57WWDeck.jpeg
    alt: 57 Waiwai Drive, Milldale
    title: 57 Waiwai Drive, Milldale
 
- - url: assets/img/portfolio/Lot 204 page-0003.jpg
+ - url: assets/img/portfolio/57WWLounge2.jpeg
    alt: 57 Waiwai Drive, Milldale
    title: 57 Waiwai Drive, Milldale
 
- - url: assets/img/portfolio/Lot 204 page-0004.jpg
+ - url: assets/img/portfolio/57WW Kitchen.jpeg
    alt: 57 Waiwai Drive, Milldale
    title: 57 Waiwai Drive, Milldale
 
- - url: assets/img/portfolio/Lot 204 page-0005.jpg
+ - url: assets/img/portfolio/57WW Kitchen2.jpeg
    alt: 57 Waiwai Drive, Milldale
    title: 57 Waiwai Drive, Milldale
 
- - url: assets/img/portfolio/Lot 204 page-0006.jpg
+ - url: assets/img/portfolio/57WWBR2.jpeg
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
+
+ - url: assets/img/portfolio/57WWFP.jpeg
+   alt: 57 Waiwai Drive, Milldale
+   title: 57 Waiwai Drive, Milldale
+
+ - url: assets/img/portfolio/57WW Location.jpeg
    alt: 57 Waiwai Drive, Milldale
    title: 57 Waiwai Drive, Milldale
 ---
