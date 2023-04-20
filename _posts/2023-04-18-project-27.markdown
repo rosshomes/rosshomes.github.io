@@ -29,23 +29,23 @@ images:
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 
- - url: assets/img/portfolio/33 penannt 6.jpg
+ - url: assets/img/portfolio/33 pennant 6.jpg
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 
- - url: assets/img/portfolio/33 penannt 7.jpg
+ - url: assets/img/portfolio/33 pennant 7.jpg
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 
- - url: assets/img/portfolio/33 penannt 8.jpg
+ - url: assets/img/portfolio/33 pennant 8.jpg
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 
- - url: assets/img/portfolio/33 penannt 17.jpg
+ - url: assets/img/portfolio/33 pennant 17.jpg
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 
- - url: assets/img/portfolio/33 penannt 19.jpg
+ - url: assets/img/portfolio/33 pennant 19.jpg
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 ---

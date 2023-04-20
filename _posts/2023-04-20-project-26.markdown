@@ -1,0 +1,47 @@
+---
+title: 99 Argent Lane, Milldale
+subtitle: 99 Argent Lane, Milldale
+layout: default
+modal-id: 27
+date: 2021-09-24
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 0
+bathroom: 0
+livingroom: 0
+parking: 0
+landarea: 0
+floorarea: 0
+description: Coming Soon
+images:
+ - url: assets/img/portfolio/Lot 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
+ - url: assets/img/portfolio/p1 BC 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
+ - url: assets/img/portfolio/p2 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
+ - url: assets/img/portfolio/p4 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
+ - url: assets/img/portfolio/p5 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
+ - url: assets/img/portfolio/p6 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
+ - url: assets/img/portfolio/1Tawatawa_BC.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+---
