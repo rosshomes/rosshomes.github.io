@@ -25,6 +25,10 @@ images:
    alt: 99 Argent Lane, Milldale
    title: 99 Argent Lane, Milldale
 
+ - url: assets/img/portfolio/p6 5005.jpg
+   alt: 99 Argent Lane, Milldale
+   title: 99 Argent Lane, Milldale
+
  - url: assets/img/portfolio/p2 5005.jpg
    alt: 99 Argent Lane, Milldale
    title: 99 Argent Lane, Milldale
@@ -34,14 +38,6 @@ images:
    title: 99 Argent Lane, Milldale
 
  - url: assets/img/portfolio/p5 5005.jpg
-   alt: 99 Argent Lane, Milldale
-   title: 99 Argent Lane, Milldale
-
- - url: assets/img/portfolio/p6 5005.jpg
-   alt: 99 Argent Lane, Milldale
-   title: 99 Argent Lane, Milldale
-
- - url: assets/img/portfolio/1Tawatawa_BC.jpg
    alt: 99 Argent Lane, Milldale
    title: 99 Argent Lane, Milldale
 ---
