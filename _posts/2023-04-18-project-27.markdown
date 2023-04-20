@@ -1,0 +1,51 @@
+---
+title: 31 Pennant, Long Bay
+subtitle: 31 Pennant, Long Bay
+layout: default
+modal-id: 28
+date: 2021-09-24
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 0
+bathroom: 0
+livingroom: 0
+parking: 0
+landarea: 0
+floorarea: 0
+description: Coming Soon
+images:
+ - url: assets/img/portfolio/33 pennant 0.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 pennant p26.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 pennant p27.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 penannt 6.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 penannt 7.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 penannt 8.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 penannt 17.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+
+ - url: assets/img/portfolio/33 penannt 19.jpg
+   alt: 31 Pennant, Long Bay
+   title: 31 Pennant, Long Bay
+---

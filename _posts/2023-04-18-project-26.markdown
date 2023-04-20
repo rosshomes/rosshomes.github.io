@@ -32,4 +32,8 @@ images:
  - url: assets/img/portfolio/1Tawatawa3.png
    alt: 1 Tawatawa, Long Bay
    title: 1 Tawatawa, Long Bay
+
+ - url: assets/img/portfolio/1Tawatawa_BC.jpg
+   alt: 1 Tawatawa, Long Bay
+   title: 1 Tawatawa, Long Bay
 ---
