@@ -17,7 +17,7 @@ landarea: 0
 floorarea: 0
 description: Coming Soon
 images:
- - url: assets/img/portfolio/33 pennant 0.jpg
+ - url: assets/img/portfolio/33 pennant front.jpg
    alt: 31 Pennant, Long Bay
    title: 31 Pennant, Long Bay
 
