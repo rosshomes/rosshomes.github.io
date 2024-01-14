@@ -14,7 +14,7 @@ bathroom: 2
 livingroom: 2
 parking: 2
 landarea: 407
-floorarea: 407
+floorarea: 180
 description: For Sale.
 images:
  - url: assets/img/portfolio/289taruna1.jpeg
