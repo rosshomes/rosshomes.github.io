@@ -1,8 +1,8 @@
 ---
-title: 291 Te Taruna Drive
-subtitle: 291 Te Taruna Drive
+title: 289 Te Taruna Drive
+subtitle: 289 Te Taruna Drive
 layout: default
-modal-id: 33
+modal-id: 34
 date: 2024-1-14
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
@@ -17,19 +17,11 @@ landarea: 407
 floorarea: 407
 description: For Sale.
 images:
- - url: assets/img/portfolio/291taruna1.jpeg
-   alt: 291 Te Taruna Drive
-   title: 291 Te Taruna Drive
+ - url: assets/img/portfolio/289taruna1.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
 
- - url: assets/img/portfolio/291taruna2.jpeg
-   alt: 291 Te Taruna Drive
-   title: 291 Te Taruna Drive
-
- - url: assets/img/portfolio/291taruna3.jpeg
-   alt: 291 Te Taruna Drive
-   title: 291 Te Taruna Drive
-
- - url: assets/img/portfolio/291taruna4.jpeg
-   alt: 291 Te Taruna Drive
-   title: 291 Te Taruna Drive
+ - url: assets/img/portfolio/289taruna2.png
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
 ---
