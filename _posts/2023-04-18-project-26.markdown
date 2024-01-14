@@ -1,0 +1,39 @@
+---
+title: 1 Tawatawa, Long Bay
+subtitle: 1 Tawatawa, Long Bay
+layout: default
+modal-id: 28
+date: 2021-09-24
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 0
+bathroom: 0
+livingroom: 0
+parking: 0
+landarea: 0
+floorarea: 0
+description: Coming Soon
+images:
+ - url: assets/img/portfolio/1Tawatawa0.png
+   alt: 1 Tawatawa, Long Bay
+   title: 1 Tawatawa, Long Bay
+
+ - url: assets/img/portfolio/1Tawatawa1.png
+   alt: 1 Tawatawa, Long Bay
+   title: 1 Tawatawa, Long Bay
+
+ - url: assets/img/portfolio/1Tawatawa2.png
+   alt: 1 Tawatawa, Long Bay
+   title: 1 Tawatawa, Long Bay
+
+ - url: assets/img/portfolio/1Tawatawa3.png
+   alt: 1 Tawatawa, Long Bay
+   title: 1 Tawatawa, Long Bay
+
+ - url: assets/img/portfolio/1Tawatawa_BC.jpg
+   alt: 1 Tawatawa, Long Bay
+   title: 1 Tawatawa, Long Bay
+---
