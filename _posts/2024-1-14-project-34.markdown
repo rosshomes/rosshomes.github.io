@@ -1,0 +1,35 @@
+---
+title: 41 Matahae Crescent
+subtitle: 41 Matahae Crescent
+layout: default
+modal-id: 36
+date: 2024-1-14
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 5
+bathroom: 3
+livingroom: 2
+parking: 2
+landarea: 515
+floorarea: 515
+description: For Sale.
+images:
+ - url: assets/img/portfolio/41matahae1.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
+
+ - url: assets/img/portfolio/41matahae2.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
+
+ - url: assets/img/portfolio/41matahae3.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
+
+ - url: assets/img/portfolio/41matahae4.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
+---
