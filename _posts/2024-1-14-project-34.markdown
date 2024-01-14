@@ -17,6 +17,9 @@ landarea: 515
 floorarea: 515
 description: For Sale.
 images:
+ - url: assets/img/portfolio/41matahae1.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
 
  - url: assets/img/portfolio/41matahae2.jpeg
    alt: 289 Te Taruna Drive
