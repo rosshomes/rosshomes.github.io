@@ -1,0 +1,35 @@
+---
+title: 291 Te Taruna Drive
+subtitle: 291 Te Taruna Drive
+layout: default
+modal-id: 33
+date: 2024-1-14
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 4
+bathroom: 2
+livingroom: 2
+parking: 2
+landarea: 407
+floorarea: 407
+description: For Sale.
+images:
+ - url: assets/img/portfolio/291taruna1.jpeg
+   alt: 291 Te Taruna Drive
+   title: 291 Te Taruna Drive
+
+ - url: assets/img/portfolio/291taruna2.jpeg
+   alt: 291 Te Taruna Drive
+   title: 291 Te Taruna Drive
+
+ - url: assets/img/portfolio/291taruna3.jpeg
+   alt: 291 Te Taruna Drive
+   title: 291 Te Taruna Drive
+
+ - url: assets/img/portfolio/291taruna4.jpeg
+   alt: 291 Te Taruna Drive
+   title: 291 Te Taruna Drive
+---
