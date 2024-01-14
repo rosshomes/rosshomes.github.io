@@ -1,0 +1,23 @@
+---
+title: 15 Matahae Crescent
+subtitle: 15 Matahae Crescent
+layout: default
+modal-id: 35
+date: 2024-1-14
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 4
+bathroom: 3
+livingroom: 1
+parking: 2
+landarea: 439
+floorarea: 192
+description: For Sale.
+images:
+ - url: assets/img/portfolio/15matahae1.jpeg
+   alt: 289 Te Taruna Drive
+   title: 289 Te Taruna Drive
+---
