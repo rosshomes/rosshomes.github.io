@@ -1,0 +1,51 @@
+---
+title: 33 Spars Road, Milldale
+subtitle: 33 Spars Road, Milldale
+layout: default
+modal-id: 40
+date: 2024-10-08
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+client: Start Bootstrap
+
+bedroom: 3
+bathroom: 2.5
+livingroom: 2
+parking: 2
+landarea: 158
+floorarea: 167
+description: For Sale
+images:
+ - url: assets/img/portfolio/33 Spars Road Back.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Lounge.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Kitchen.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Balcony.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Ensuite.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Bath.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Deck.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+
+ - url: assets/img/portfolio/33 Spars Road Front.jpg
+   alt: 33 Spars Road, Milldale
+   title: 33 Spars Road, Milldale
+---
